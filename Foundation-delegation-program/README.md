@@ -144,8 +144,6 @@ Aura team and advisors will base on that to reevaluate the candidates every 3 mo
 
 ## 10. Registration Form
 We will open up the registration form after 1 week so that the community can have more time to contribute their idea on the foundation delegation program.
-	
-Both forms are inspired by the Interchain Foundation Program registration form.
 
 ## 11. Terms and Conditions
 - Every validator is welcome to apply for the Genesis slot as well as the Foundation Delegation Program.
