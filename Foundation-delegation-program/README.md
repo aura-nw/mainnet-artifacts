@@ -6,6 +6,22 @@ This document provides a draft version of the Aura Network Foundation Delegation
 - Twitter: [@EledraNguyen](https://twitter.com/EledraNguyen)
 - If you have access to the shared version of the document on Google docs, please just comment on it.
 
+## Table of Content
+[Aura Network Foundation Delegation Program](#aura-network-foundation-delegation-program)
+  * [1. Context](#1-context)
+  * [2. Goal](#2-goal)
+  * [3. Duration](#3-duration)
+  * [4. Funding & Rewards](#4-funding-and-rewards)
+  * [5. Aura Foundation Validator](#5-aura-foundation-validator)
+  * [6. Governing](#6-governing)
+  * [7. Initial Delegation Requirements](#7-initial-delegation-requirements)
+  * [8. Schedule](#8-schedule)
+  * [9. Maintaining delegations](#9-maintaining-delegations)
+  * [10. Registration Form](#10-registration-form)
+  * [11. Terms and Conditions](#11-terms-and-conditions)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## 1. Context
 
 We introduce the Aura network **Foundation Delegation Program**. Staking delegation is one of the most important aspects of Aura Network. It is mandatory for the Aura Foundation to cultivate the decentralisation and growth of the network by allocating their funds for delegation appropriately. 
@@ -34,7 +50,7 @@ For example:
 
 After this first delegation program ends, a new delegation program will be designed depending on the past performance and bonding rate of the network.
 
-## 4. Funding & Rewards
+## 4. Funding and Rewards
 
 The fund used in the Foundation Delegation Program is the “Team & Advisor” part. Details as follow:
 - Maximum delegation: 200M $AURA 
