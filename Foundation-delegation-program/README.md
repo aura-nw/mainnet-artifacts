@@ -2,7 +2,7 @@
 
 This document provides a draft version of the Aura Network Foundation Delegation Program. If you have good suggestions, there are several channels where we are online almost all the time:
 
-- Aura Network discord: either tag us on the main or dm @eledra or @kienvc.
+- Aura Network [Discord](https://docs.aura.network/validator/running-a-fullnode): either tag us on the main or dm @eledra or @kienvc.
 - Twitter: [@EledraNguyen](https://twitter.com/EledraNguyen)
 - If you have access to the shared version of the document on Google docs, please just comment on it.
 
@@ -26,7 +26,7 @@ This document provides a draft version of the Aura Network Foundation Delegation
 
 We introduce the Aura network **Foundation Delegation Program**. Staking delegation is one of the most important aspects of Aura Network. It is mandatory for the Aura Foundation to cultivate the decentralisation and growth of the network by allocating their funds for delegation appropriately. 
 
-The Aura Network Foundation in this case refers to the Aura Network team who creates the project. As stated in the tokenomic design, the “Team and Advisors” fund contains 200M tokens, cliffed for the first year and linear vesting for 3 years. This is equivalent to 51.6% of the total non-ignored tokens on Aura mainnet. However, while it is locked, these tokens can still be staked to secure the network.
+The Aura Network Foundation in this case refers to the Aura Network team who creates the project. As stated in the tokenomic design, the “Team and Advisors” fund contains 200M tokens, cliffed for the first year and linear vesting for 3 years. This is equivalent to 51.6% of the total tokens on Aura mainnet (apart from the ignored ecogrowth and reserve funds). However, while it is locked, these tokens can still be staked to secure the network.
 
 The full calculation can be found [here](https://docs.google.com/spreadsheets/d/1jG9VTPBPHupWWzMcFy9WQkxccmO2AAMwpcQdllpe0UI/edit?usp=sharing)
 
@@ -84,7 +84,7 @@ Every validator who got foundation delegation must meet the following base requi
 
 ### Top Euphoria contributor: 5 slots (Automatically selected)
 
-Euphoria testnet is an important part of the Aura Network ecosystem. The top 5 validators from the IVP that have the highest points from the Master of Nodes will be selected as candidates for the foundation delegation program.
+Euphoria testnet is an important part of the Aura Network ecosystem. The top 5 validators from the IVP that have the highest points from the Master of Nodes will be selected as candidates for the foundation delegation program. As there are 6 top validators from the program, one slot will be taken from the reserved slots.
 
 ### Aura ecosystem contributor: 10 slots (Need to register)
 This is 10 delegation slots for validators who are committed to contribute directly to the Aura Network project. These validators can contribute to several aspects:
