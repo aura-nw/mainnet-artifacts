@@ -78,7 +78,7 @@ Every validator who got foundation delegation must meet the following base requi
 - Commit of uptime of at least 90% throughout the Delegation period
 - Commit to participate in network governance at least 2/3 of the total votes throughout the Delegation period. 
 - Publicly announced to the Aura Network community on the delegation decision.
-- Must not run node infrastructure on Hetzner or Contabo
+- Must not run mainnet validator node on Hetzner or Contabo (backup / testnet nodes or other services are not required)
 
 **Note: the amount of $AURA token delegated to each slot will be finalised after careful consideration depending on the contribution of the selected party to the Aura Network**
 
