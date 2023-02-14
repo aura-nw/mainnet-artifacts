@@ -17,8 +17,7 @@ This document provides a draft version of the Aura Network Foundation Delegation
   * [7. Initial Delegation Requirements](#7-initial-delegation-requirements)
   * [8. Schedule](#8-schedule)
   * [9. Maintaining delegations](#9-maintaining-delegations)
-  * [10. Registration Form](#10-registration-form)
-  * [11. Terms and Conditions](#11-terms-and-conditions)
+  * [10. Terms and Conditions](#11-terms-and-conditions)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -142,10 +141,7 @@ For transparency purposes, validators receiving the delegation are required to p
 
 Aura team and advisors will base on that to reevaluate the candidates every 3 months. Depending on their status, we will decide to maintain or terminate the delegation.
 
-## 10. Registration Form
-We will open up the registration form after 1 week so that the community can have more time to contribute their idea on the foundation delegation program.
-
-## 11. Terms and Conditions
+## 10. Terms and Conditions
 - Every validator is welcome to apply for the Genesis slot as well as the Foundation Delegation Program.
 - The Aura Network team reserves the right to change these terms and conditions at any time without prior notice.
 - All final decisions of the program belong to the Aura Network team.
