@@ -1,5 +1,5 @@
 # Network Information
-- **Launch date**: TBD
+- **Launch date**: `2023-03-20T13:00:00Z`
 - **Chain-ID**: `xstaxy-1`
 - **Denom**:
     - Base: `uaura`
