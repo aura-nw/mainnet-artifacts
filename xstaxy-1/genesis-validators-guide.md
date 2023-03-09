@@ -79,7 +79,7 @@ Below are the instructions to generate your genesis transaction.
    Genesis transaction written to "/home/[user]/.aura/config/gentx/gentx-******.json"
    ```
 
-## Submit gentx and logo
+## Submit gentx
 **NOTE**: Deadline for the submission is **March 16, 2023 at 15:00 UTC+7**
 
 1. Fork this repository 
