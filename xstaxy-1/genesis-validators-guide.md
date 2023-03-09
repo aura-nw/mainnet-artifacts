@@ -34,7 +34,7 @@ Below are the instructions to generate your genesis transaction.
 
 5. Create the gentx, replace `<key-name>`:
 
-   The number of bonded tokens for each validator must be corresponed to our announcement [**HERE**](https://docs.google.com/spreadsheets/d/1Y72BjnAP_nHkIohqnSJmHbxtYqSkIzE10umiCa_O5ek/edit?usp=sharing)
+   The number of bonded tokens for each validator must be corresponed to our announcement [**HERE**](https://docs.google.com/spreadsheets/d/1IX-sumSB6Jclu407Y0TwKJYbexheTIJT7oVXxCIgEFY/edit?usp=sharing)
    
    ```bash
    aurad add-genesis-account <key-name> 100000000uaura --keyring-backend os
