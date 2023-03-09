@@ -34,7 +34,7 @@ Below are the instructions to generate your genesis transaction.
 
 5. Create the gentx, replace `<key-name>`:
 
-   The number of bonded tokens for each validator must be corresponed to our announcement here: `TBD`
+   The number of bonded tokens for each validator must be corresponed to our announcement [**HERE**](https://docs.google.com/spreadsheets/d/1Y72BjnAP_nHkIohqnSJmHbxtYqSkIzE10umiCa_O5ek/edit?usp=sharing)
    
    ```bash
    aurad add-genesis-account <key-name> 100000000uaura --keyring-backend os
@@ -95,7 +95,7 @@ Below are the instructions to generate your genesis transaction.
 
 3. Create a pull request to our main branch
 
-    Sample PR: [Link](tbd)
+    Sample PR: [**Link**](https://github.com/aura-nw/mainnet-artifacts/pull/1)
 
 ## Setup your validator with finalized genesis
 
