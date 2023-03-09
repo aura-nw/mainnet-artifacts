@@ -82,7 +82,7 @@ Below are the instructions to generate your genesis transaction.
 
 1. Fork this repository 
 
-2. Upload your gentx with format:
+2. Upload your gentx with format and put it in *gentxs* directory:
    
    ```
    gentx-<validator-moniker>.json
