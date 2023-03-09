@@ -36,6 +36,8 @@ Below are the instructions to generate your genesis transaction.
 
    The number of bonded tokens for each validator must be corresponed to our announcement [**HERE**](https://docs.google.com/spreadsheets/d/1IX-sumSB6Jclu407Y0TwKJYbexheTIJT7oVXxCIgEFY/edit?usp=sharing)
    
+   **NOTE**: 1aura = 10**6 uaura
+   
    ```bash
    aurad add-genesis-account <key-name> 100000000uaura --keyring-backend os
    aurad gentx <key-name> 100000000uaura [flags] --keyring-backend os --chain-id xstaxy-1 --yes
