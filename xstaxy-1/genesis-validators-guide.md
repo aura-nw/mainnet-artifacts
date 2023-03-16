@@ -7,7 +7,7 @@ Below are the instructions to generate your genesis transaction.
 1. Download the lastest **Aura** release from [aurad repo](https://github.com/aura-nw/aura) and run `make` to build the source.
    Or clone source code from the repo
    ```bash
-   git clone --branch Aura_v0.4.3 https://github.com/aura-nw/aura
+   git clone --branch aura_v0.4.3 https://github.com/aura-nw/aura
    cd aura
    make
    ```
@@ -107,7 +107,7 @@ The Chain Genesis Time is **13:00 UTC on March 20, 2023**.
 
    Or clone source code from the repo
    ```bash
-   git clone --branch Aura_v0.4.4 https://github.com/aura-nw/aura
+   git clone --branch aura_v0.4.4 https://github.com/aura-nw/aura
    cd aura && make
    ```
 **NOTE**: this version is different with version used to generate gentx
