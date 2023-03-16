@@ -67,7 +67,6 @@ Below are the instructions to generate your genesis transaction.
    --website "https://YOURWEBSITE.COM" \
    --security-contact="YOUR@EMAIL.COM" \
    --identity "YOUR KEYBASE.IO PGP ID" \
-   --from KEY-NAME \
    --chain-id xstaxy-1 \
    --keyring-backend os \
    --yes 
