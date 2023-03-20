@@ -8,8 +8,9 @@
 - **Genesis File:** `https://raw.githubusercontent.com/aura-nw/mainnet-artifacts/main/xstaxy-1/genesis.json`
 - **Block Explorer**: `https://aurascan.io`
 - **Public Endpoints**:
-  - LCD: `TBD`
-  - RPC: `TBD`
+  - LCD: `https://lcd.aura.network`
+  - RPC: `https://rpc.aura.network`
+  - GRPC: `https://grpc.aura.network`
 - **Seeds**:
 ```
 22a0ca5f64187bb477be1d82166b1e9e184afe50@18.143.52.13:26656
@@ -17,7 +18,8 @@
 ```
 - **RPC servers for State Sync configuration**:
 ```
-TBD
+https://snapshot-1.aura.network:443
+https://snapshot-2.aura.network:443
 ```
 - **Minimum Hardware Requirements**:
     - Quad Core or larger AMD or Intel (amd64) CPU
