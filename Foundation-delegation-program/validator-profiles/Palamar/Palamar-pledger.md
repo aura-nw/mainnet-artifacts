@@ -1,6 +1,6 @@
 # Aura Network Validator Pledge
 
-Validators receved the foundation delegation have pledged to meet the following requirements:
+As the Aura foundation delegation receiver, Palamar pledges to meet the following works. If, for any reason, we do not meet these commitments then we understand that we may lose delegation staked to us.
 
     1. Top 25 validators must run an Euphoria testnet node beside Xstaxy mainnet node
     2. The hardware for mainnet meets the recommended baseline    
