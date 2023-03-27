@@ -19,6 +19,7 @@ As the Aura foundation delegation receiver, KonsorTech pledges to meet the follo
     - gRPC: http://mainnet-aura.konsortech.xyz:25090
     - Snapshot: https://github.com/konsortech/Node/blob/main/Mainnet/Aura/snapshot.md
     - Statesync: https://github.com/konsortech/Node/blob/main/Mainnet/Aura/statesync.md
+    - IBC Relayers: Soon
     
     - Running Testnet EUPHORIA-2 : https://testnet-explorer.konsortech.xyz/aura-testnet/staking/auravaloper1u75n70557npu6uezv26v890yf2xtdpvnemdw24
     - Custom Guide: https://github.com/konsortech/Node/tree/main/Testnet/Aura
