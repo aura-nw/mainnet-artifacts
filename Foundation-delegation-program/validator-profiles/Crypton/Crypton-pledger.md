@@ -15,7 +15,7 @@ As the Aura foundation delegation receiver, **Crypton** pledges to meet the foll
     Service - https://tools.crypton.xyz/en/T3/services
     Category 3: Community growth
     Getting to know the Aura Network - https://t.me/crypton_off/6505
-    Video fot IDO AURA - https://youtu.be/6FWnuaK6cNQ
+    Video for IDO AURA - https://youtu.be/6FWnuaK6cNQ
     AMA CRYPTON x AURA - https://t.me/crypton_off/6784
     Trading company - https://t.me/crypton_off/8755
     AMA CRYPTON x AURA (2) - https://t.me/crypton_off/9261
