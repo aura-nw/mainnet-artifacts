@@ -12,11 +12,11 @@ As the Aura foundation delegation receiver, **AutoStake** pledges to meet the fo
     7. Publicly announced to the social channels on the delegation decision
     8. Commit to any network contribution listed below:
     Category 1: Infrastructure
-    - Daily pruned mainnet snaphots: https://snapshots.autostake.com/aura-1/
-    - Daily updated addrbook: https://snapshots.autostake.com/aura-1/addrbook.json
+    - Daily pruned mainnet snaphots: https://snapshots.autostake.com/xstaxy-1/
+    - Daily updated addrbook: https://snapshots.autostake.com/xstaxy-1/addrbook.json
     - State-sync server: aura-mainnet-rpc.autostake.com:443
-    - Seeds nodes: https://snapshots.autostake.com/aura-1/seed.txt
-    - Peers for all the chains we validate: https://snapshots.autostake.com/aura-1/peer.txt
+    - Seeds nodes: https://snapshots.autostake.com/xstaxy-1/seed.txt
+    - Peers for all the chains we validate: https://snapshots.autostake.com/xstaxy-1/peer.txt
     - Auto-Compounding staking: https://wallet.autostake.com
     - Explorer: https://explorer.autostake.com/
     - LCD/REST API for all chains we validate: https://aura.mainnet.lcd.autostake.net:443
