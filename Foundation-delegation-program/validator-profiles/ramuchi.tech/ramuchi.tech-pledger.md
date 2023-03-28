@@ -11,7 +11,7 @@ As the Aura foundation delegation receiver, **ramuchi.tech** pledges to meet the
     7. Publicly announced to the social channels on the delegation decision
     8. Commit to any network contribution listed below:
     Category 1: Infrastructure
-	  peer - 9ee34b0829e9d85d88784aa17857fa1719760da2@142.132.202.86:30000
+    peer - 9ee34b0829e9d85d88784aa17857fa1719760da2@142.132.202.86:30000
     RPC: http://142.132.202.86:30001
     API: http://142.132.202.86:1319
     GRPC: http://142.132.202.86:1091
