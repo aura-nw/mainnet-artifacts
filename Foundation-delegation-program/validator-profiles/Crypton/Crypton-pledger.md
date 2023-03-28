@@ -11,10 +11,13 @@ As the Aura foundation delegation receiver, **Crypton** pledges to meet the foll
     7. Publicly announced to the social channels on the delegation decision
     8. Commit to network contributions listed below: 
     Category 1: Infrastructure
-    - Provide peers, snapshot, relayers, ...
-    Category 2: Software engineering
-    - Contribute to Aura source code, ...
+    Aura Mainnet - https://github.com/freshe4qa/aura
+    Service - https://tools.crypton.xyz/en/T3/services
     Category 3: Community growth
-    - Creating contents, events, maintaining comunity ...
+    Getting to know the Aura Network - https://t.me/crypton_off/6505
+    Video fot IDO AURA - https://youtu.be/6FWnuaK6cNQ
+    AMA CRYPTON x AURA - https://t.me/crypton_off/6784
+    Trading company - https://t.me/crypton_off/8755
+    AMA CRYPTON x AURA (2) - https://t.me/crypton_off/9261
     Category 4: Business development
-    - Growing business in NFT, partnerships, ...
+    Crypton is a partner of the Aura Network
