@@ -13,8 +13,8 @@ As the Aura foundation delegation receiver, **STAKR.space** pledges to meet the 
     Category 1: Infrastructure
     - Provide peers, snapshot, relayers, ... - peer provided fc3357ab9ebd2e9530177848187e870b7404ed8e@185.246.84.196:21656, testnet and mainnet validators not running on Hetzner or Contabo, Euphoria testnet validator maintained indefinetely.
     Category 2: Software engineering
-    - Contribute to Aura source code, ...
+    - Contribute to Aura source code, ... - telegram bot for Aura network currently in development, mobile app to include mass adoption for Aura mainnet currently in development.
     Category 3: Community growth
-    - Creating contents, events, maintaining comunity ...
+    - Creating contents, events, maintaining comunity ... - As a htpps://validators.network mentor, using Aura testnet for education lessons.
     Category 4: Business development
-    - Growing business in NFT, partnerships, ...
+    - Growing business in NFT, partnerships, ... - currently in development.
