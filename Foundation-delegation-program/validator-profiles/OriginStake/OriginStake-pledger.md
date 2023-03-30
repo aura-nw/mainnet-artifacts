@@ -8,7 +8,7 @@ As the Aura foundation delegation receiver, **OriginStake** pledges to meet the 
 6. Must set Gas Price >= 0.001 uaura
 7. Publicly announced to the social channels on the delegation decision
 8. Commit to any network contribution listed below:
-*Category 3: Community growth*
+**Category 3: Community growth**
  We are building a support portal including Videos, Tutorials to educate users for the Aura Network ecosystem, including dapps in the ecosystem:
 - Hub Portal: https://originstake.com/hub
 - Website: https://originstake.com
