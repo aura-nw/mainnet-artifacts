@@ -12,7 +12,7 @@ As the Aura foundation delegation receiver, **StakingCabin** pledges to meet the
     8. Commit to network contributions listed below: 
     Category 1: Infrastructure
     - peer: 035b3b1e232107dda53f79d7ae3541e86c53f1d8@mainnet.aura.stakingcabin.com:26656
-	- monitor: Monitor aura network healthy
+    - monitor: Monitor aura network healthy
     Category 2: Software engineering
 
     Category 3: Community growth
