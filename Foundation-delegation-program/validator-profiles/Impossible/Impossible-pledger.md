@@ -13,4 +13,6 @@ As the Aura foundation delegation receiver, **StakeAngle** pledges to meet the f
     Category 1: Infrastructure 
     Category 2: Software engineering
     Category 3: Community growth
+- Promote on Twitter and medium
     Category 4: Business development
+- Launch Aura network on our launchpad
