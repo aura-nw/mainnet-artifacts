@@ -1,4 +1,4 @@
-Account,Address,Total balance,Vesting amount,Total vesting time(s),Period length(s),Vesting start time (timestamp),Cliff time(s),Cliff amount
+Account,Address,Total balance(uaura),Vesting amount(uaura),Total vesting time(s),Period length(s),Vesting start time (timestamp),Cliff time(s),Cliff amount(uaura)
 ecosystem growth,aura15y8jhg5f5frp7g4uznxsj98fzyruuxaepalrzw,212201507000000,99166666000000,41472000,2592000,1679961600,0,0
 foundation reserved,aura1kjgu375v4yqjffl0cfq4n6qw0r60w32k9nthh6,149904038000000,99936022000000,41472000,2592000,1679961600,0,0
 fundraise,aura125gwrqglh495q729zzvraz4twx0fvjfm3c9m7t,157557500000000,104551749000000,41472000,2592000,1679961600,0,0
