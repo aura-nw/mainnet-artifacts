@@ -22,7 +22,7 @@ As the Aura foundation delegation receiver, POSTHUMAN∞DVS pledges to meet the 
 
   Category 3: Community growth
   
-    - Community support and developing Russian speaking Aura community
+    - Community support and developing Russian speaking Aura community (https://t.me/AuraNetwork_ru)
     - Creating educational videos/tutorials/walkthrough/recordings
     - Hosting an AMA at least 1 time during delegation period (depends also on Aura's team availability)
     - Add Aura Network to Weekly/Daily infographics in Cosmos Ecosystem Twitter
