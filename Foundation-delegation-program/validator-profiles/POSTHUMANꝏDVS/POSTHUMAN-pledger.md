@@ -17,7 +17,8 @@ As the Aura foundation delegation receiver, POSTHUMAN∞DVS pledges to meet the 
     - Endpoints
 
     Category 2: Software engineering  
-    - Telegram Sputnik Bot @SputnikNetworkBot
+    - Telegram Uptimebot (https://t.me/AuraUpTime_bot)
+    - Telegram Sputnik Bot (https://t.me/SputnikNetworkBot)
     - The POSTHUMAN∞DVS team can build or help to build various tools for Aura Network (depends on request)
 
   Category 3: Community growth
