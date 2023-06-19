@@ -19,7 +19,11 @@ As the Aura foundation delegation receiver, KonsorTech pledges to meet the follo
     - gRPC: http://mainnet-aura.konsortech.xyz:25090
     - Snapshot: https://github.com/konsortech/Node/blob/main/Mainnet/Aura/snapshot.md
     - Statesync: https://github.com/konsortech/Node/blob/main/Mainnet/Aura/statesync.md
-    - IBC Relayers: Soon
+    - IBC Relayers: 
+      1. Aura xstaxy-1 channel-4 <> Axelar axelar-dojo-1 channel-104
+         Operator address:
+         aura15tfdu996z0v0z8mfmnpdmdzv52nhc4ra5avwmw
+         axelar15tfdu996z0v0z8mfmnpdmdzv52nhc4rat9dyjk
     
     - Running Testnet EUPHORIA-2 : https://testnet-explorer.konsortech.xyz/aura-testnet/staking/auravaloper1u75n70557npu6uezv26v890yf2xtdpvnemdw24
     - Custom Guide: https://github.com/konsortech/Node/tree/main/Testnet/Aura
