@@ -1,6 +1,6 @@
 # Aura Network Validator Pledge
 
-Validators receved the foundation delegation have pledged to meet the following requirements:
+As the Aura foundation delegation receiver, **ramuchi.tech** pledges to meet the following works. If, for any reason, we do not meet these commitments then we understand that we may lose delegation staked to us.
 
     1. Top 25 validators must run an Euphoria testnet node beside Xstaxy mainnet node
     2. The hardware for mainnet meets the recommended baseline    
@@ -11,6 +11,11 @@ Validators receved the foundation delegation have pledged to meet the following 
     7. Publicly announced to the social channels on the delegation decision
     8. Commit to any network contribution listed below:
     Category 1: Infrastructure
+    peer - 9ee34b0829e9d85d88784aa17857fa1719760da2@aura-peer.ramuchi.tech:30000
+    RPC: https://aura-rpc.ramuchi.tech
+    API: https://aura-api.ramuchi.tech
+    GRPC: https://aura-grpc.ramuchi.tech
+    
     Category 2: Software engineering
     Category 3: Community growth
     Category 4: Business development

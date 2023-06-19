@@ -1,0 +1,1129 @@
+{
+    "genesis_time": "2023-03-20T13:00:00Z",
+    "chain_id": "xstaxy-1",
+    "initial_height": "1",
+    "consensus_params": {
+      "block": {
+        "max_bytes": "22020096",
+        "max_gas": "-1",
+        "time_iota_ms": "1000"
+      },
+      "evidence": {
+        "max_age_num_blocks": "100000",
+        "max_age_duration": "172800000000000",
+        "max_bytes": "1048576"
+      },
+      "validator": {
+        "pub_key_types": [
+          "ed25519"
+        ]
+      },
+      "version": {}
+    },
+    "app_hash": "",
+    "app_state": {
+      "aura": {
+        "params": {
+          "max_supply": "1000000000000000",
+          "exclude_circulating_addr": [
+            "aura15y8jhg5f5frp7g4uznxsj98fzyruuxaepalrzw",
+            "aura1kjgu375v4yqjffl0cfq4n6qw0r60w32k9nthh6"
+          ]
+        }
+      },
+      "auth": {
+        "params": {
+          "max_memo_characters": "256",
+          "tx_sig_limit": "7",
+          "tx_size_cost_per_byte": "10",
+          "sig_verify_cost_ed25519": "590",
+          "sig_verify_cost_secp256k1": "1000"
+        },
+        "accounts": [
+          {
+            "@type": "/cosmos.vesting.v1beta1.PeriodicVestingAccount",
+            "base_vesting_account": {
+              "base_account": {
+                "address": "aura15y8jhg5f5frp7g4uznxsj98fzyruuxaepalrzw",
+                "pub_key": null,
+                "account_number": "0",
+                "sequence": "0"
+              },
+              "original_vesting": [
+                {
+                  "denom": "uaura",
+                  "amount": "99166666000000"
+                }
+              ],
+              "delegated_free": [],
+              "delegated_vesting": [],
+              "end_time": "1721433600"
+            },
+            "start_time": "1679961600",
+            "vesting_periods": [
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6197916625000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "/cosmos.vesting.v1beta1.PeriodicVestingAccount",
+            "base_vesting_account": {
+              "base_account": {
+                "address": "aura1kjgu375v4yqjffl0cfq4n6qw0r60w32k9nthh6",
+                "pub_key": null,
+                "account_number": "0",
+                "sequence": "0"
+              },
+              "original_vesting": [
+                {
+                  "denom": "uaura",
+                  "amount": "99936022000000"
+                }
+              ],
+              "delegated_free": [],
+              "delegated_vesting": [],
+              "end_time": "1721433600"
+            },
+            "start_time": "1679961600",
+            "vesting_periods": [
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6246001375000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "/cosmos.vesting.v1beta1.PeriodicVestingAccount",
+            "base_vesting_account": {
+              "base_account": {
+                "address": "aura125gwrqglh495q729zzvraz4twx0fvjfm3c9m7t",
+                "pub_key": null,
+                "account_number": "0",
+                "sequence": "0"
+              },
+              "original_vesting": [
+                {
+                  "denom": "uaura",
+                  "amount": "104551749000000"
+                }
+              ],
+              "delegated_free": [],
+              "delegated_vesting": [],
+              "end_time": "1721433600"
+            },
+            "start_time": "1679961600",
+            "vesting_periods": [
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "6534484312500"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "/cosmos.vesting.v1beta1.PeriodicVestingAccount",
+            "base_vesting_account": {
+              "base_account": {
+                "address": "aura1pqlh09f0zhszyaaq57ndf8djap4suth2hvl430",
+                "pub_key": null,
+                "account_number": "0",
+                "sequence": "0"
+              },
+              "original_vesting": [
+                {
+                  "denom": "uaura",
+                  "amount": "200000000000000"
+                }
+              ],
+              "delegated_free": [],
+              "delegated_vesting": [],
+              "end_time": "1786233600"
+            },
+            "start_time": "1679961600",
+            "vesting_periods": [
+              {
+                "length": "12960000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "50000000000000"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666690"
+                  }
+                ]
+              },
+              {
+                "length": "2592000",
+                "amount": [
+                  {
+                    "denom": "uaura",
+                    "amount": "4166666666666"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "/cosmos.auth.v1beta1.BaseAccount",
+            "address": "aura1ywgqk8qs0s3txy4gylg60dgyymet80mwy8cfnk",
+            "pub_key": null,
+            "account_number": "0",
+            "sequence": "0"
+          }
+        ]
+      },
+      "authz": {
+        "authorization": []
+      },
+      "bank": {
+        "params": {
+          "send_enabled": [],
+          "default_send_enabled": true
+        },
+        "balances": [
+          {
+            "address": "aura1pqlh09f0zhszyaaq57ndf8djap4suth2hvl430",
+            "coins": [
+              {
+                "denom": "uaura",
+                "amount": "200000000000000"
+              }
+            ]
+          },
+          {
+            "address": "aura1ywgqk8qs0s3txy4gylg60dgyymet80mwy8cfnk",
+            "coins": [
+              {
+                "denom": "uaura",
+                "amount": "30038462000000"
+              }
+            ]
+          },
+          {
+            "address": "aura125gwrqglh495q729zzvraz4twx0fvjfm3c9m7t",
+            "coins": [
+              {
+                "denom": "uaura",
+                "amount": "157557500000000"
+              }
+            ]
+          },
+          {
+            "address": "aura15y8jhg5f5frp7g4uznxsj98fzyruuxaepalrzw",
+            "coins": [
+              {
+                "denom": "uaura",
+                "amount": "212500000000000"
+              }
+            ]
+          },
+          {
+            "address": "aura1kjgu375v4yqjffl0cfq4n6qw0r60w32k9nthh6",
+            "coins": [
+              {
+                "denom": "uaura",
+                "amount": "149904038000000"
+              }
+            ]
+          }
+        ],
+        "supply": [],
+        "denom_metadata": []
+      },
+      "capability": {
+        "index": "1",
+        "owners": []
+      },
+      "crisis": {
+        "constant_fee": {
+          "denom": "uaura",
+          "amount": "1000"
+        }
+      },
+      "distribution": {
+        "params": {
+          "community_tax": "0.000000000000000000",
+          "base_proposer_reward": "0.010000000000000000",
+          "bonus_proposer_reward": "0.040000000000000000",
+          "withdraw_addr_enabled": true
+        },
+        "fee_pool": {
+          "community_pool": []
+        },
+        "delegator_withdraw_infos": [],
+        "previous_proposer": "",
+        "outstanding_rewards": [],
+        "validator_accumulated_commissions": [],
+        "validator_historical_rewards": [],
+        "validator_current_rewards": [],
+        "delegator_starting_infos": [],
+        "validator_slash_events": []
+      },
+      "evidence": {
+        "evidence": []
+      },
+      "feegrant": {
+        "allowances": []
+      },
+      "genutil": {
+        "gen_txs": []
+      },
+      "gov": {
+        "starting_proposal_id": "1",
+        "deposits": [],
+        "votes": [],
+        "proposals": [],
+        "deposit_params": {
+          "min_deposit": [
+            {
+              "denom": "uaura",
+              "amount": "1000000000"
+            }
+          ],
+          "max_deposit_period": "259200s"
+        },
+        "voting_params": {
+          "voting_period": "259200s"
+        },
+        "tally_params": {
+          "quorum": "0.334000000000000000",
+          "threshold": "0.500000000000000000",
+          "veto_threshold": "0.334000000000000000"
+        }
+      },
+      "ibc": {
+        "client_genesis": {
+          "clients": [],
+          "clients_consensus": [],
+          "clients_metadata": [],
+          "params": {
+            "allowed_clients": [
+              "06-solomachine",
+              "07-tendermint"
+            ]
+          },
+          "create_localhost": false,
+          "next_client_sequence": "0"
+        },
+        "connection_genesis": {
+          "connections": [],
+          "client_connection_paths": [],
+          "next_connection_sequence": "0",
+          "params": {
+            "max_expected_time_per_block": "30000000000"
+          }
+        },
+        "channel_genesis": {
+          "channels": [],
+          "acknowledgements": [],
+          "commitments": [],
+          "receipts": [],
+          "send_sequences": [],
+          "recv_sequences": [],
+          "ack_sequences": [],
+          "next_channel_sequence": "0"
+        }
+      },
+      "mint": {
+        "minter": {
+          "inflation": "0.000000000000000000",
+          "annual_provisions": "0.000000000000000000"
+        },
+        "params": {
+          "mint_denom": "uaura",
+          "inflation_rate_change": "0.130000000000000000",
+          "inflation_max": "0.000000000000000000",
+          "inflation_min": "0.000000000000000000",
+          "goal_bonded": "0.670000000000000000",
+          "blocks_per_year": "5532632"
+        }
+      },
+      "params": null,
+      "slashing": {
+        "params": {
+          "signed_blocks_window": "10000",
+          "min_signed_per_window": "0.010000000000000000",
+          "downtime_jail_duration": "600s",
+          "slash_fraction_double_sign": "0.050000000000000000",
+          "slash_fraction_downtime": "0.000100000000000000"
+        },
+        "signing_infos": [],
+        "missed_blocks": []
+      },
+      "staking": {
+        "params": {
+          "unbonding_time": "1209600s",
+          "max_validators": "70",
+          "max_entries": 7,
+          "historical_entries": 10000,
+          "bond_denom": "uaura"
+        },
+        "last_total_power": "0",
+        "last_validator_powers": [],
+        "validators": [],
+        "delegations": [],
+        "unbonding_delegations": [],
+        "redelegations": [],
+        "exported": false
+      },
+      "transfer": {
+        "port_id": "transfer",
+        "denom_traces": [],
+        "params": {
+          "send_enabled": false,
+          "receive_enabled": false
+        }
+      },
+      "upgrade": {},
+      "vesting": {},
+      "wasm": {
+        "params": {
+          "code_upload_access": {
+            "permission": "OnlyAddress",
+            "address": "aura10h87v6as4ja47pldh8wt9gshwuqce3tkchd8fl",
+            "addresses": []
+          },
+          "instantiate_default_permission": "Everybody"
+        },
+        "codes": [],
+        "contracts": [],
+        "sequences": [],
+        "gen_msgs": []
+      }
+    }
+  }
+  

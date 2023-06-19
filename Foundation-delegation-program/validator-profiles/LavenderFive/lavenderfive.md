@@ -10,7 +10,7 @@ Validators receved the foundation delegation have pledged to meet the following 
     6. Must set Gas Price >= 0.001 uaura
     7. Publicly announced to the social channels on the delegation decision
     8. Commit to any network contribution listed below:
-    Category 1: Infrastructure
-    Category 2: Software engineering
-    Category 3: Community growth
-    Category 4: Business development
+
+    Category 1: Infrastructure - public rpc, seed, and relayer for mainnet
+    Category 2: Software engineering - provided ledger support
+    Category 3: Community growth - share information regarding Aura on social media channels
