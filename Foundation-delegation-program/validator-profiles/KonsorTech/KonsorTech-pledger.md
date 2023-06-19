@@ -34,4 +34,5 @@ As the Aura foundation delegation receiver, KonsorTech pledges to meet the follo
     Category 2: Software engineering
     Category 3: Community growth
     - https://twitter.com/Konsor_Tech/status/1638577540217573376
+    - https://twitter.com/Konsor_Tech/status/1660681446812704770 (NFT Project Aura X Kimetsu)
     Category 4: Business development
