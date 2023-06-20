@@ -19,6 +19,6 @@ As the Aura foundation delegation receiver, **AutoStake** pledges to meet the fo
     - Peers for all the chains we validate: https://snapshots.autostake.com/xstaxy-1/peer.txt
     - Auto-Compounding staking: https://wallet.autostake.com
     - Explorer: https://explorer.autostake.com/
-    - LCD/REST API for all chains we validate: https://aura.mainnet.lcd.autostake.net:443
+    - LCD/REST API for all chains we validate: https://aura.mainnet.lcd.autostake.com:443
     - RPC for all chains we validate: https://aura.mainnet.rpc.autostake.com:com
     - gRPC for all chains we validate: https://aura.mainnet.grpc.autostake.com:443
