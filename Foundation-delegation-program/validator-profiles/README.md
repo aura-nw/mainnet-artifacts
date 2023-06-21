@@ -1,6 +1,6 @@
 # Aura Network Validator Pledge
 
-Validators receved the foundation delegation have pledged to meet the following requirements:
+Validators received the foundation delegation have pledged to meet the following requirements:
 
     1. Top 25 validators must run an Euphoria testnet node beside Xstaxy mainnet node
     2. The hardware for mainnet meets the recommended baseline    
