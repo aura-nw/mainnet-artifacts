@@ -19,5 +19,8 @@ As the Aura foundation delegation receiver, **NODEJUMPER** pledges to meet the f
       - Fresh snapshots, state sync service
       - Live peers and address book
       - Public API endpoints (RPC, REST, gRPC)
+      - On-chain analytics
+      - Relayer to Nois network (https://relayers.smartstake.io/relayer/FFB0AA51A2DF5954)
     Category 2: Software engineering
       - Telegram Governance Bot (https://t.me/nodejumper_governance_bot)
+      - Aura blockchain explorer (https://explorer.nodejumper.io/aura)
