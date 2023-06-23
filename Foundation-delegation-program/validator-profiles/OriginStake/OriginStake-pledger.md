@@ -6,12 +6,20 @@ As the Aura foundation delegation receiver, **OriginStake** pledges to meet the 
 4. Commission rate is greater than 0% and smaller or equal to 8%
 5. Commit to participate in network governance at least 2/3 of the total proposals throughout the delegation period
 6. Must set Gas Price >= 0.001 uaura
-7. Publicly announced to the social channels on the delegation decision
-8. Commit to any network contribution listed below:
+7. Publicly announced to the social channels on the delegation decision 
+   - https://twitter.com/OriginStake/status/1640919930563616768
+8. Commit to any network contribution listed below: 
+
 **Category 3: Community growth**
- We are building a support portal including Videos, Tutorials to educate users for the Aura Network ecosystem, including dapps in the ecosystem:
-- Hub Portal: https://originstake.com/hub
-- Website: https://originstake.com
-- Telegram: https://t.me/originstake
-- Twitter: https://twitter.com/OriginStake
-- Youtube: https://www.youtube.com/@originstake
+- We provide weekly and monthly updates on important news for the community 
+  - Weekly Update:  ​https://twitter.com/OriginStake/status/1658326539849842688,
+  - Monthly Update: https://twitter.com/OriginStake/status/1666116951419285504, https://twitter.com/OriginStake/status/1653724787360034817 
+  - Metrics Update: https://twitter.com/OriginStake/status/1657297902723817472, https://twitter.com/OriginStake/status/1647149688410501120 
+  - New Version Update: https://twitter.com/OriginStake/status/1668510948267786240
+- We kick-off campaigns to increase brand awareness for the Aura Network and to attract users to join the Aura ecosystem by creating wallets. Additionally, we also organize campaigns to attract users to stake $AURA.
+  - https://twitter.com/OriginStake/status/1656968672731344897 
+  - https://twitter.com/OriginStake/status/1661719671345930240 
+- We launch a Support Hub in both Vietnamese and English to assist users in easily staking and creating wallets to participate in the Aura ecosystem. In addition, we are planning to expand to other common languages such as Russian, Chinese, Korean, French, etc
+  - [https://twitter.com/OriginStake/status/1661719671345930240](https://help.originstake.com/en/collections/3964280-aura-network) 
+- We support CM to answer user inquiries in the Vietnamese community.
+- We are developing a Dashboard to manage staking assets, tracking, reward calculation and Aura Network is one of the earliest integrations into this application. The product will be launched in 2023
