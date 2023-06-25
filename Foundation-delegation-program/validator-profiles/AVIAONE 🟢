@@ -8,7 +8,7 @@ Mainnet -> 1 node to be validator
 Testnet -> 1 node to be validator
 Services : 
 Mainnet -> 1 node -> https://aviaone.com/blockchains-service/aura-mainnet-xstaxy-1.html
-Testnet -> 1 node to be validator -> https://aviaone.com/blockchains-service/aura-testnet-euphoria-2.html
+Testnet -> 1 node -> https://aviaone.com/blockchains-service/aura-testnet-euphoria-2.html
 All our services are giving :
 - SEED
 - RPC
