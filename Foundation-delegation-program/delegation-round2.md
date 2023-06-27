@@ -1,6 +1,6 @@
-# Aura Network Foundation Delegation Round 2 (DRAFT)
+# Aura Network Foundation Delegation Round 2
 
-This document provides a draft version of the Aura Network Foundation Delegation Program. If you have good suggestions, there are several channels where we are online almost all the time:
+This document presents the Aura Network Foundation Delegation Program round 2. If you have good suggestions, there are several channels where we are online almost all the time:
 
 - Aura Network [Discord](https://docs.aura.network/validator/running-a-fullnode): either tag us on the main or dm @eledra or @kienvc.
 - Twitter: [@EledraNguyen](https://twitter.com/EledraNguyen)
@@ -20,28 +20,42 @@ We also observe the consequence of such situation in the last network upgrade wh
 
 Please keep in mind that this report is ONLY for the purpose of analyzing the last network upgrade so that we can have better preparation for future releases. This report is not for the purpose of blaming any invidual or comparing validators in term of skill or contribution. However, it will serve as a metric towards the foundation delegation amount of this delegation round.
 
-## 3. Proposed new Foundation Delegation Criteria
+## 3. Round 2 Foundation Delegation Criteria
 
-We propose several change in this delegation round:
+The proposed list of delegation for round 2 is [here](<[sheet](https://docs.google.com/spreadsheets/d/1oCaf5vKvFV-AzoFyVxHCsJWRTmdqHiU-Cl38zgnesHE/edit?usp=sharing)>)
+
+There are several changes in this delegation round:
 
 - Increase the total amount of foundation delegation: the current network bonding rate is too low (10%) leading to too high APR for stakers (~70%). This cause heavy impact to the Aura token price as well as disincentivize user to use Aura token for other purpose (trading/NFT buy/liqudity providing). With the coming launch of HaloTrade, the first native DEX on Aura, we want to significantly reduce the staking APR to ~20% only so that users are encouraged to participate in other DeFi activities.
-- Increase the "big" delegation list to 50. Previously we only have 25 validators receiving 1M delegation and the rest receive 100K delegation.
-- All rewards to the Staked tokens from the Aura Foundation WILL be moved to the community pool.
-- New delegation should further decentralize the network to keep an equal balance. Thus, we expect top 10 validators hold no more than 33% accumulated voting power (now top 4 is 30%)
-- New delegation should preserve the order of the current validator set. We believe that the current order of the current set reflect the true interest of retail delegators and partners, we don't want our foundation delegation amount to heavily affect that. So we will try our best to keep the current order of the set.
-- Validators getting delegated from the foundation must increase their commission to at least 3% and no more than 8%.
+- There are 3 tiers of delegation:
+  - Big delegation: 2M Aura for validators demonstrate their great engagement with the Aura Network as well as maintained near perfect uptime even during major network upgrades. Validators must set their commission between 3% to 5% to maintain this delegation.
+  - Medium delegation: 500K Aura for validators who show their great engagement with the project but did not have as high uptime as the previous tier. Validators must set their commission level between 1% and 8% to maintain this delegation.
+  - Small delegation: Round-1 delegated validators who still maintain a good uptime but failed to keep up with the network upgrade. Validators must set their commission between 0.5% and 10% to maintain this delegation.
+- Introduce a penaltized parameter for Validator who does not maintain good uptime during major network upgrade:
+  - If a validator belongs to the big delegation tier but during the last network upgrade, that validator did not maintain more than 80% uptime, a penalty value will be introduced towards the validator delegation amount.
+  - The formular for the penalty is: 2M \* (80 - uptime) / 100, so the less up time you have, the less delegation you receive.
+- All rewards to the Staked tokens from the Aura Foundation WILL be moved to the community pool. Aura team WILL not take any rewards from staking.
+- At least need more than 10 validators to have 33% accumulated voting power.
 - Reducing Euphoria validator set to 15 to save cost. Top 15 validators receiving bigest foundation delegation will have to run Euphoria nodes and we will do a rotation in the next few months.
 
-The final delegation detail will be published after we get feedbacks from the current validator set.
+## 4. Dispute & suggestion
 
-## 4. Highlighted contribution
+Currently there is significant effort has to spent to review and maintain a good delegation program. We encourage every validators to contribute and propose new delegation criterias, frameworks to improve our foundation delegation program. If there is any disagreement on the current delegation decision, we are also open to discuss.
 
-For the last 3 months, we observed significant contributions from new validators from the set in term of social contribution, technical support, business development and numerous other initiatives.
+## 5. Maintaining delegations
 
-Please update your [pledge](https://github.com/aura-nw/mainnet-artifacts/tree/main/Foundation-delegation-program/validator-profiles) to reflect your contribution to Aura Network, we will review it and take it into account to decide your next delegation amount.
+For transparency purposes, validators receiving the delegation are required to public the pledge based on their contribution commitment at [Github repository](https://github.com/aura-nw/mainnet-artifacts/tree/main/Foundation-delegation-program). During the delegation program, validators have to regularly update their progress to the repository.
 
-## 5. Schedule
+Aura team and advisors will base on that to reevaluate the candidates every 3 months. Depending on their status, we will decide to maintain or terminate the delegation.
 
-- June 19th - Draft publish
-- June 26th - Final version
-- June 27th - New delegation round
+**IMPORTANT: Please make sure you update your pledge and appropriate comission rate to maintain your delegation**
+
+## 6. Euphoria testnet maintainance
+
+If a validator belongs to the top 15 of the active set in Xstaxy, we would request this validator to maintain their Euphoria testnet node. Other validators are not required and should turn off their node to save cost.
+
+## 7. Terms and Conditions
+
+- Every validator is welcome to apply for the Genesis slot as well as the Foundation Delegation Program.
+- The Aura Network team reserves the right to change these terms and conditions at any time without prior notice.
+- All final decisions of the program belong to the Aura Network team.
