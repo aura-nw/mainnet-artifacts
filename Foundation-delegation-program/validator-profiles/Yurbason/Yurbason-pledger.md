@@ -11,8 +11,8 @@ As the Aura foundation delegation receiver, **Yurbason** pledges to meet the fol
     7. Publicly announced to the social channels on the delegation decision
     8. Commit to network contributions listed below: 
     Category 1: Infrastructure
-      Template for Zabbix to monitor the work of the Aura validator
-      Provide peer
+      Template for Zabbix to monitor the work of the Aura validator (https://github.com/Yurbason/Zabbix-Templates/tree/main/Aura)
+      Provide peer (b5774014ea48bee11fede34398118f98215508f0@141.95.148.107:26656)
     Category 2: Software engineering
     Category 3: Community growth
     Category 4: Business development
