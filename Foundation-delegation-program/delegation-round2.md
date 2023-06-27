@@ -6,6 +6,8 @@ This document presents the Aura Network Foundation Delegation Program round 2. I
 - Twitter: [@EledraNguyen](https://twitter.com/EledraNguyen)
 - If you have access to the shared version of the document on Google docs, please just comment on it.
 
+The proposed list of delegation for round 2 is [here](https://docs.google.com/spreadsheets/d/1oCaf5vKvFV-AzoFyVxHCsJWRTmdqHiU-Cl38zgnesHE/edit?usp=sharing)
+
 ## 1. Context
 
 It has been 3 months since the first official round of Aura Foundation delegation (30 Mar 2023). During this time, 2 major upgrades were performed through governing [vote #2](https://aurascan.io/votings/2) and governing [vote #4](https://aurascan.io/votings/4). There were also a lot of constructive discussion on Aura Discord on governing and validation parameters. While it was unfortunate that these discussions were lost due to the Discord compromised incident, we acknowledged all feedbacks and ideas proposed by validators and we are taking all of these suggestions into account for the second round of Foundation Delegation from Aura Network.
@@ -22,7 +24,7 @@ Please keep in mind that this report is ONLY for the purpose of analyzing the la
 
 ## 3. Round 2 Foundation Delegation Criteria
 
-The proposed list of delegation for round 2 is [here](<[sheet](https://docs.google.com/spreadsheets/d/1oCaf5vKvFV-AzoFyVxHCsJWRTmdqHiU-Cl38zgnesHE/edit?usp=sharing)>)
+The proposed list of delegation for round 2 is [here](https://docs.google.com/spreadsheets/d/1oCaf5vKvFV-AzoFyVxHCsJWRTmdqHiU-Cl38zgnesHE/edit?usp=sharing)
 
 There are several changes in this delegation round:
 
