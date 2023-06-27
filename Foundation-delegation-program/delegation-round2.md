@@ -29,6 +29,7 @@ The proposed list of delegation for round 2 is [here](https://docs.google.com/sp
 There are several changes in this delegation round:
 
 - Increase the total amount of foundation delegation: the current network bonding rate is too low (10%) leading to too high APR for stakers (~70%). This cause heavy impact to the Aura token price as well as disincentivize user to use Aura token for other purpose (trading/NFT buy/liqudity providing). With the coming launch of HaloTrade, the first native DEX on Aura, we want to significantly reduce the staking APR to ~20% only so that users are encouraged to participate in other DeFi activities.
+- We will make another governing prop to reduce the inflation rate from 8% to 5% to further reduce the token emission to the network.
 - There are 3 tiers of delegation:
   - Big delegation: 2M Aura for validators demonstrate their great engagement with the Aura Network as well as maintained near perfect uptime even during major network upgrades. Validators must set their commission between 3% to 5% to maintain this delegation.
   - Medium delegation: 500K Aura for validators who show their great engagement with the project but did not have as high uptime as the previous tier. Validators must set their commission level between 1% and 8% to maintain this delegation.
