@@ -12,7 +12,7 @@ As the Aura foundation delegation receiver, **P-OPS Team** pledges to meet the f
     8. Commit to network contributions listed below: 
     Category 1: Infrastructure
     - peer: a8605bd4399cdcd489ebbee3386bcd25021fe4fa@88.99.100.39:26666
-    - support testnet: https://explorer.kjnodes.com/aura/staking/auravaloper1hmmlyt7mchy6t49z0hmacsem3pyljpzhv9leat
+    - support euphoria testnet: https://euphoria.aurascan.io/validators/auravaloper1jkg7cvzwlapasg6zkf8gpc28lt25hgyfj63vt7
     Category 3: Community growth
     - Create content: https://medium.com/@popsteam/p-ops-teams-aura-staking-guide-ea17ff5c8e3, as well as more general articles like https://medium.com/@popsteam/cryptocurrency-has-become-a-major-asset-class-in-the-last-decade-and-its-growth-shows-no-signs-of-3ab75c714b9c, https://medium.com/@popsteam/gone-phishing-fdf98ba424a8 and https://medium.com/@popsteam/best-security-practices-for-ledger-e12a985cbbeb
     - tweets: https://twitter.com/POpsTeam1/status/1640353017697386496, https://twitter.com/POpsTeam1/status/1640317051637059585 + more incoming
