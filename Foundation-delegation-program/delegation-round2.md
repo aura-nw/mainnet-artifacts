@@ -53,7 +53,7 @@ Aura team and advisors will base on that to reevaluate the candidates every 3 mo
 
 **IMPORTANT: Please make sure you update your pledge and appropriate commission rate to maintain your delegation**
 
-**Deadline for update pledge and commission rate: Thursday, July 6, 2023 00:00 UTC**
+**Deadline for updating pledge and commission rate: Thursday, July 6, 2023 00:00 UTC**
 
 ## 6. Euphoria testnet maintainance
 
