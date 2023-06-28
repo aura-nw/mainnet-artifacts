@@ -51,7 +51,8 @@ For transparency purposes, validators receiving the delegation are required to p
 
 Aura team and advisors will base on that to reevaluate the candidates every 3 months. Depending on their status, we will decide to maintain or terminate the delegation.
 
-**IMPORTANT: Please make sure you update your pledge and appropriate comission rate to maintain your delegation**
+**IMPORTANT: Please make sure you update your pledge and appropriate commission rate to maintain your delegation**
+**Deadline for update pledge and commission rate: Thursday, July 6, 2023 00:00 UTC**
 
 ## 6. Euphoria testnet maintainance
 
