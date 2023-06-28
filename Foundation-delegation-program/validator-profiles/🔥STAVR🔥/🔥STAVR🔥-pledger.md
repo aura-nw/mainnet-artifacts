@@ -13,16 +13,18 @@ As the Aura foundation delegation receiver, **🔥STAVR TEAM🔥** pledges to me
     Category 1: Infrastructure
       Explorer main: https://explorer.stavr.tech/aura-mainnet
       Explorer test: https://explorer.stavr.tech/aura-testnet
-      Guide main and test net: https://github.com/obajay/nodes-Guides/tree/main/Aura
+      Guide main and test net: https://github.com/obajay/nodes-Guides/tree/main/Projects/Aura
       RPC main: http://aura.rpc.m.stavr.tech:11047
       API main: https://aura.api.m.stavr.tech
       API test: https://aura2.api.t.stavr.tech
-      Addrbook main: https://github.com/obajay/nodes-Guides/tree/main/Aura#download-addrbook
-      Addrbook test: https://github.com/obajay/nodes-Guides/tree/main/Aura/Testnet#download-addrbook
-      Peers main life: https://github.com/obajay/StateSync-snapshots/tree/main/Aura#state-sync
-      Wasm main: https://github.com/obajay/StateSync-snapshots/blob/main/Aura/README.md#snapshot-02-gb-updated-every-5-hours
-      Script for quick installation (main) https://github.com/obajay/nodes-Guides/tree/main/Aura#1-auto_install-script
-      Script for quick installation (test) https://github.com/obajay/nodes-Guides/tree/main/Aura/Testnet#1-auto_install-script
-      State-Sync (main) https://github.com/obajay/StateSync-snapshots/tree/main/Aura#state-sync
+      gRPC Mainnet: http://aura.grpc.m.stavr.tech:9901
+      Genesis Mainnet: wget -O $HOME/.aura/config/genesis.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Projects/Aura/genesis.json"
+      Addrbook main: https://github.com/obajay/nodes-Guides/tree/main/Projects/Aura#download-addrbook
+      Addrbook test: https://github.com/obajay/nodes-Guides/tree/main/Projects/Aura/Testnet#download-addrbook
+      Peers main life: https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Aura#state-sync
+      Wasm main: https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Aura/README.md#snapshot-02-gb-updated-every-5-hours
+      Script for quick installation (main) https://github.com/obajay/nodes-Guides/tree/main/Projects/Aura#1-auto_install-script
+      Script for quick installation (test) https://github.com/obajay/nodes-Guides/tree/main/Projects/Aura/Testnet#1-auto_install-script
+      State-Sync (main) https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Aura#state-sync
     Category 3: Community growth
       Website: https://github.com/obajay
