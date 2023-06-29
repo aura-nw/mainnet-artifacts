@@ -15,7 +15,6 @@ Validators receved the foundation delegation have pledged to meet the following 
     Category 2: Software engineering
     - Self-written explorer
     - Mainnet: https://aura.exploreme.pro
-    - Testnet: https://aura-testnet.exploreme.pro
     Category 3: Community growth
     - We help the community that ask questions related to Aura. We are ready to integrate Aura Network into our future products and tell the community.
       https://twitter.com/stakeme_pro/status/1640586887059611649?s=20
