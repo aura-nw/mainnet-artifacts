@@ -1,76 +1,11 @@
 #############################################################
 #####      DELEGATIONS SECOND ROUND JUNE 2023   #############
 #############################################################
-TECHNICAL
-----------
-We make running 4 nodes which have a monthly cost...
-Mainnet -> 1 node to be validator
-Testnet -> 1 node to be validator
-Services : 
-Mainnet -> 1 node -> https://aviaone.com/blockchains-service/aura-mainnet-xstaxy-1.html
-Testnet -> 1 node -> https://aviaone.com/blockchains-service/aura-testnet-euphoria-2.html
-All our services are giving :
-- SEED
-- RPC
-- API
-- GRPC
-- SNAPSHOT
-- STATE SYNC
-- ADDBOOK and GENESIS
-- DOC TO INSTALL AND HELP NEW VALIDATOR
-- MORE AND MORE ....
 
-Of course when there is some update, we are ALWAYS there to help if it's necessary, and we are NEVER late to update, it's always done with less than 2 blocks missing with some internal script wrote by ourselves...
-+++++++
+All our services provided (docs and snapshot) for mainnet and testnet have not been compensed, we stay at disposal to re-activate the services.
 
-MARKETING AND COMMUNITY
-----------
-We always stay active on discord #general to help to community and Auraholics
-Exemple with some message like that
-To get a better understanding of AURA NETWORK in only 2 minutes, read our Orange Paper
-https://aviaone.com/aura-orange-paper
---------------------------------------------
-How to stake Aura Token Xstaxy Mainnet
-https://aviaone.com/blog/stake-aura-token-mainnet-best-validator/
--------------------------------------------- 
-Just above some articles written by us, and we will produce more articles... (Our AURA webpage https://aviaone.com/aura-network-nft-marketplace )
-We are active on twitter as well...
+We are going to be like the others validators, get delegated without providing services.
 
-We probably forgot to mention something ! anyway, we hope Aura enjoy with us !
+we guarantee that we will not make less than others validators and will be same them.
 
-####################################################################################################################
-####################################################################################################################
-We'll comply to each point below :
-
-1. Top 25 validators must run an Euphoria testnet node beside Xstaxy mainnet node
-2. The hardware for mainnet meets the recommended baseline    
-3. Uptime of at least 90%
-4. Commission rate is greater than 0% and smaller or equal to 8%
-5. Commit to participate in network governance at least 2/3 of the total proposals throughout the delegation period
-6. Must set Gas Price >= 0.001 uaura
-7. Publicly announced to the social channels on the delegation decision
-8. Commit to any network contribution listed below:
-
-###########################
-Category 1: Infrastructure
---------------------------
-- Genesis TESTNET
-- Genesis MAINNET
--------
-Introduce good validators
--------
-Install | Useful Commands | Rpc And Api | Peers | Seed | Addrbook | Genesis | Snapshot | State Sync
-MAINNET doc => https://aviaone.com/blockchains-service/aura-mainnet-xstaxy-1.html
-TESTNET doc => https://aviaone.com/blockchains-service/aura-testnet-euphoria-2.html
-
-##############################
-Category 3: Community growth
------------------------------
-Web page + "Orange Paper" about AURA => https://aviaone.com/aura-stake-delegate/
-Many tweets, list here : https://twitter.com/search?q=%40avia_one%20aura&src=typed_query
-
-##################################
-Category 4: Business development
-----------------------------------
-Introduce Thai Community
-##################################
+This is only what we can do for this second round in June 2023, and we regret to do not provide more...
