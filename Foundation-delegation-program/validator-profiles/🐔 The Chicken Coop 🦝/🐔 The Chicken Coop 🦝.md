@@ -14,11 +14,18 @@ As an Aura foundation delegation recipient, 🐔 The Chicken Coop 🦝 pledges t
 Category 1: Infrastructure
     - Provide a testnet node
     - Provide IBC relaying services
-    - Provide a block explorer
+    - Provide a block explorer (https://explorer.sopko.net)
+    - Maintain the highest uptime that I'm capable of (currently at 99.45%)
+    - Run on bare metal hardware located on private property, both owned by me
+    - Will be active in chain upgrades, providing assistance to anybody requiring it
+    - Will utilize Cosmovisor to automate chain upgrades
 
 Category 2: Software engineering
     - Assist with debugging any software-related chain issues
+    - Review code for errors, contribute code and documentation when possible 
     
 Category 3: Community growth
     - Promote Aura Network on Twitter
     - Highlight Aura-specific features to general users that are communicated to validators
+    - Will participate in governance
+    - Will maintain commission rate at 5%
