@@ -44,7 +44,7 @@ var foo = async function() {
       },
       features: ['no-legacy-stdTx'],
       walletUrlForStaking: "https://aurascan.io/validators",
-      logo: "https://i.imgur.com/zi0mTYb.png",
+      logo: "https://github.com/aura-nw/mainnet-artifacts/blob/main/Logo/AURA/Aura-logo-1.2.png?raw=true",
       explorer: "https://aurascan.io/"
     });
     console.log('finish request adding xstaxy mainnet');
