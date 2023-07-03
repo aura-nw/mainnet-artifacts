@@ -20,5 +20,5 @@ As the Aura foundation delegation receiver, **Staking4All** pledges to meet the 
     - mantain on Staking4All website a Aura section for staking and delegations
 
 Update on 2023-07-03
-    - we can confirm we have aligned with our original pledge (added to website, promoted on social medai, amde staking viedo, above 90% uptime, upgrades, etc)
-    - we have made minor edits to pledge like com will be above 5% , top 15 validators for TestNet, more animated guides,upgrade asap, etc
+    - we can confirm we have aligned with our original pledge (added to website, promoted on social medai, made staking video, above 90% uptime, upgrades, etc)
+    - we have made minor edits to pledge like the commission will be above 5% , top 15 validators for TestNet, more animated guides,upgrade asap, etc
