@@ -15,9 +15,19 @@ As the Aura foundation delegation receiver, The Silver Fox pledges to meet the f
     Category 2: Software engineering
      - As I am going through my journey of learning Javascript, GO and RUST are on my list to learn.  I've already provided some code contributions to other chains but they are very small.
 	 - Help support node runners
+	 - *Completed* Created Unbonding stats with charts.  https://thesilverfox.pro/#blockchains Click on Aura's Icon and wait for data to load.
+		- Working on providing more data like:
+			- Top 10 total unbonds from Validators
+			- Top Unbonding Wallets
+			- Hourly & Daily total staked amounts
+				- Per validator
+				- Top wallets
+				- Validators adding self bonds
+	 - Nearly complete Upgrade Script offered as a complete package to replace Cosmosvisor.
+		- Might like some help getting a separate testnet going where I can test the script by issuing upgrade props to fully simulate the process.
     Category 3: Community growth
-     - I am still working on an extensive Documentation site.
+     - I am still working on an extensive Documentation site. *This is taking quite a bit of time*
 	 - I retweet/quote tweet most announcements.
     Category 4: Business development
      - Being avaliable for Aura when needs arise
-	 - I still have every intention of writing the math paper on the DEX formula
+	 - I still have every intention of writing the math paper on the DEX formula 
