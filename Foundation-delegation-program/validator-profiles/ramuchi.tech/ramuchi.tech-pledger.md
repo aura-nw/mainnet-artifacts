@@ -11,10 +11,10 @@ As the Aura foundation delegation receiver, **ramuchi.tech** pledges to meet the
     7. Publicly announced to the social channels on the delegation decision
     8. Commit to any network contribution listed below:
     Category 1: Infrastructure
-    peer - 9ee34b0829e9d85d88784aa17857fa1719760da2@aura-peer.ramuchi.tech:30000
-    RPC: https://aura-rpc.ramuchi.tech
-    API: https://aura-api.ramuchi.tech
-    GRPC: https://aura-grpc.ramuchi.tech
+    RPC   — https://aura-rpc.ramuchi.tech
+    API   — https://aura-api.ramuchi.tech
+    gRPC  — https://aura-grpc.ramuchi.tech:15000
+    PEER  — 9ee34b0829e9d85d88784aa17857fa1719760da2@aura.ramuchi.tech:30000
     
     Category 2: Software engineering
     Category 3: Community growth
