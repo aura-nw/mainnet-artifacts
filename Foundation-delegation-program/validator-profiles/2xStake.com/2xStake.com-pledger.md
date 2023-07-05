@@ -14,4 +14,5 @@ As the Aura foundation delegation Program round 2 receiver, 2xStake.com pledges 
     Category 1: Infrastructure
     - Peers
     - Relayers 
+    - Testnet Explorer: https://cosmoscan.top/aura-euphoria2/staking
     - Mainnet Explorer: https://cosmoscan.top/aura/staking
