@@ -21,4 +21,4 @@ As the Aura foundation delegation receiver, **Staking4All** pledges to meet the 
 
 Update on 2023-07-03
     - we can confirm we have aligned with our original pledge (added to website, promoted on social medai, made staking video, above 90% uptime, upgrades, etc)
-    - we have made minor edits to pledge like the commission will be above 5% , top 15 validators for TestNet, more animated guides,upgrade asap, etc
+    - we have made minor edits to pledge like the commission will be between 3% to 5% , top 15 validators for TestNet, more animated guides,upgrade asap, etc
