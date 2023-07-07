@@ -22,7 +22,7 @@ As the Aura foundation delegation receiver, **Staketab** pledges to meet the fol
       - Upgrades watcher - https://services.staketab.com/watcher/
       - RPC, API, GRPC: https://aura-rpc.staketab.org:443, https://aura-rest.staketab.org, services.staketab.com:9021
     8.2. Aura Network Testnet
-      - Validator - https://aurascan.io/validators/auravaloper158nyzrgaugn0dk6tue6q9pdnjw5jrq9hp3wq6c
+      - Validator - https://euphoria.aurascan.io/validators/auravaloper18mlzkmmnuk4t44s52ulex070tc7xyrrmmw97y5
       - Snapshots - https://services.staketab.com/docs/aura-testnet/snapshot/
       - Auto and manual Statesync - https://services.staketab.com/docs/aura-testnet/state-sync/
       - Auto Install - https://services.staketab.com/docs/aura-testnet/auto/
