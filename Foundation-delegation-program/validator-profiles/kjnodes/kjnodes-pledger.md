@@ -30,5 +30,5 @@ As the Aura foundation delegation receiver, **kjnodes** pledges to meet the foll
       - State sync services - https://services.kjnodes.com/testnet/aura/state-sync
       - Useful commands for node and wallet operation - https://services.kjnodes.com/testnet/aura/useful-commands
     Category 2: Software engineering
-      - Telegram Governance Bot - https://services.kjnodes.com/bots/telegram-proposal-bot
-      - Discord Governance Bot - https://services.kjnodes.com/bots/discord-proposal-bot
+      - Telegram Governance Bot - https://services.kjnodes.com/bots/telegram-proposal
+      - Discord Governance Bot - https://services.kjnodes.com/bots/discord-proposal
