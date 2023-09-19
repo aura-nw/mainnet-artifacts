@@ -21,5 +21,6 @@ Category 2: Software engineering
   - Atomstaking is available to any review and assistance request
 
 Category 3: Community growth
+  - Promote Aura to the community at Website, Twitter and Medium channels
 
 Category 4: Business development
