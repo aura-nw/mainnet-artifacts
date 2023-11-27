@@ -38,6 +38,7 @@ Here is some details of the round 3 foundation delegation program:
   - Participate in network governance **#6** and **#7**
   - Infrastructure support: IBC relayer, snapshot
   - Active social contribution
+  - Validator who belongs to organization that are directly working with Aura team to build products
 
   Depend on these parameters, the delegation amount will be re-calculated base on the base tiers.
 - All rewards to the Staked tokens from the Aura Foundation WILL be moved to the community pool. Aura team WILL not take any rewards from staking.
