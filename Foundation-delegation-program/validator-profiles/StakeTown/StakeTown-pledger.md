@@ -23,3 +23,4 @@ As the Aura foundation delegation receiver, **StakeTown** pledges to meet the fo
             c) Public endpoins - https://services.stake-town.com/home/mainnet/aura/public-api
       - RPC, API, GRPC, peer (under StakeTown provider): https://cosmos.directory/aura/nodes
       - Useful commands - https://services.stake-town.com/home/mainnet/aura/cheat-sheet
+      - Relaying packages axelar <> aura: https://aurascan.io/account/aura1j2gdx5q4wjs0rtqhtr9celkpf4u935n3et90dx
