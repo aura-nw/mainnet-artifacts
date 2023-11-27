@@ -20,7 +20,7 @@ As the Aura foundation delegation **Round 3** receiver, **kjnodes** pledges to m
     - State sync services - https://services.kjnodes.com/mainnet/aura/state-sync
     - Useful commands for node and wallet operation - https://services.kjnodes.com/mainnet/aura/useful-commands
     Category 2: Software engineering
-	- [RPC Scanner](https://services.kjnodes.com/mainnet/aura/public-rpc) - tool which periodically scans the network and provides with list of publicly exposed RPC endpoints.
-	- [Validator Slashboard](https://services.kjnodes.com/mainnet/aura/slashboard) - tool designed to showcase the historical data of validator slashing incidents.
-    - [Telegram Governance Bot](https://services.kjnodes.com/bots/telegram-proposal) - Telegram bot to keep validators notified when there is a new proposal on the chain.
-    - [Discord Governance Bot](https://services.kjnodes.com/bots/discord-proposal) - Discord bot to keep validators notified when there is a new proposal on the chain.
+	- RPC Scanner - https://services.kjnodes.com/mainnet/aura/public-rpc - tool which periodically scans the network and provides with list of publicly exposed RPC endpoints)
+	- Validator Slashboard - https://services.kjnodes.com/mainnet/aura/slashboard - tool designed to showcase the historical data of validator slashing incidents.
+    - Telegram Governance Bot - https://services.kjnodes.com/bots/telegram-proposal - Telegram bot to keep validators notified when there is a new proposal on the chain.
+    - Discord Governance Bot - https://services.kjnodes.com/bots/discord-proposal - Discord bot to keep validators notified when there is a new proposal on the chain.
