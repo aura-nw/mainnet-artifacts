@@ -43,6 +43,7 @@ Here is some details of the round 3 foundation delegation program:
   Depend on these parameters, the delegation amount will be re-calculated base on the base tiers.
 - All rewards to the Staked tokens from the Aura Foundation WILL be moved to the community pool. Aura team WILL not take any rewards from staking.
 - Rotate Euphoria validator set. 15 validators receive a big foundation delegation will have to run Euphoria nodes to replace the current set.
+- During the delegation period, we will increase delegation amount case by case when we need support such as creating new IBC channels, cooperate building products.   
 
 ## 4. Dispute & suggestion
 
