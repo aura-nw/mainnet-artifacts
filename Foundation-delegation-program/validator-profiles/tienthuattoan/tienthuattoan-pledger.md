@@ -10,20 +10,21 @@ As the Aura foundation delegation receiver, **TienThuatToan** pledges to meet th
     6. Must set Gas Price >= 0.001 uaura
     7. Publicly announced to the social channels on the delegation decision
     8. Commit to any network contribution listed below:
-    Category 1: Infrastructure
+    Category 1: Infrastructure (https://tienthuattoan.ventures/aura) 
     - Explorer: https://explorer.tienthuattoan.ventures/aura
-    - Telegram tracking bot: https://t.me/cosmos_whales
-    - Public endpoints (API, RPC, GRPC, Snapshot): https://aura-rpc.tienthuattoan.ventures, https://aura-api.tienthuattoan.ventures, https://aura-snapshot.tienthuattoan.ventures
-
+    - Public endpoints (API, RPC, GRPC, Snapshot): https://aura-rpc.tienthuattoan.ventures, https://aura-api.tienthuattoan.ventures, aura-grpc.tienthuattoan.ventures:9190, https://aura-snapshot.tienthuattoan.ventures
+    - Relay: Cosmos Hub <> Aura
+    - Services: Seed Node, Live Peers, Network Scan
     Category 2: Community growth
     - Community:
-      + Cosmos Vietnam https://www.facebook.com/groups/cosmosvn
+      + Vietnam Crypto Hub https://www.facebook.com/groups/vietnamcryptohub
       + Osmosis Vietnam https://www.facebook.com/groups/osmosisvietnam
       + Umee Vietnam https://www.facebook.com/groups/umeevn
-      + Sifchain Vietnam https://www.facebook.com/groups/sifchainvietnam
-      + Sifchain Vietnam Group https://t.me/sifchainvietnam
       + TTT group https://www.facebook.com/groups/tienthuattoan
       + TTT channel https://t.me/tienthuattoanchannel
       + TTT FB https://t.me/tienthuattoanchat
       + TTT Youttube https://www.youtube.com/c/tienthuattoan
+      + X https://twitter.com/TTTcapital
       + News site: https://tienthuattoan.com
+    Category 4: Business development
+    - Partnerships
