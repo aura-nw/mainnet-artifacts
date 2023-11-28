@@ -11,7 +11,8 @@ As the Aura foundation delegation receiver, **STAKR.space** pledges to meet the 
     7. Publicly announced to the social channels on the delegation decision
     8. Commit to network contributions listed below: 
     Category 1: Infrastructure
-    - Provide peers, snapshot, relayers, ... - peer provided fc3357ab9ebd2e9530177848187e870b7404ed8e@185.246.84.196:21656, testnet and mainnet validators not running on Hetzner or Contabo.
+    - Provide peers, snapshot, relayers, ... - peer provided 16ab4dce34e1b374630fdb12e1dfc2ce352b7ac2@195.3.221.76:21656, testnet and mainnet validators not running on Hetzner or Contabo.
+    - Provided mainnet explorer @ http://explorer.stakr.space/aura
     Category 2: Software engineering
     - Contribute to Aura source code, ... - not available ATM.
     Category 3: Community growth
