@@ -1,6 +1,6 @@
 # Aura Network Validator Pledge
 
-As the Aura foundation delegation Program round 2 receiver, 2xStake.com pledges to meet the following works. If, for any reason, we do not meet these commitments then we understand that we may lose delegation staked to us.
+As the Aura foundation delegation Program round 3 receiver, 2xStake.com pledges to meet the following works. If, for any reason, we do not meet these commitments then we understand that we may lose delegation staked to us.
 
     1. Top 25 validators must run an Euphoria testnet node beside Xstaxy mainnet node
     2. The hardware for mainnet meets the recommended baseline    
@@ -14,5 +14,6 @@ As the Aura foundation delegation Program round 2 receiver, 2xStake.com pledges 
     Category 1: Infrastructure
     - Peers
     - Relayers 
-    - Testnet Explorer: https://cosmoscan.top/aura-euphoria2/staking
+    - Testnet Explorer: https://cosmoscan.top/aura-euphoria2/staking ///   stopped
     - Mainnet Explorer: https://cosmoscan.top/aura/staking
+    - Express snapshot(main) https://github.com/kuatcapital/Service/tree/main/Aura-Xstaxy-1
