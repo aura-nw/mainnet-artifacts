@@ -14,7 +14,18 @@ As the Aura foundation delegation receiver, **STAKR.space** pledges to meet the 
     - Provide peers, snapshot, relayers, ... - peer provided 16ab4dce34e1b374630fdb12e1dfc2ce352b7ac2@195.3.221.76:21656, testnet and mainnet validators not running on Hetzner or Contabo.
     - Provided mainnet explorer @ http://explorer.stakr.space/aura
     - Provided Aura-Nois mainnet relayer
-    
+
+    Chain: xstaxy-1
+    Client: 07-tendermint-13
+     Connection: connection-10
+      | State: OPEN
+      | Counterparty state: OPEN
+       Channel: channel-3
+        | Port: transfer
+        | State: OPEN
+        | Counterparty: channel-16
+     Chain: nois-1
+     
     Category 2: Software engineering
     - Contribute to Aura source code, ... - not available ATM.
     Category 3: Community growth
