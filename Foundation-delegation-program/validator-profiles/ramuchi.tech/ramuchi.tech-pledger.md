@@ -1,6 +1,6 @@
 # Aura Network Validator Pledge
 
-As the Aura foundation delegation **Round 3** receiver, **Yurbason** pledges to meet the following works. If, for any reason, we do not meet these commitments then we understand that we may lose delegation staked to us.
+As the Aura foundation delegation **Round 3** receiver, **ramuchi.tech** pledges to meet the following works. If, for any reason, we do not meet these commitments then we understand that we may lose delegation staked to us.
 
     1. Top 15 validators must run an Euphoria testnet node beside Xstaxy mainnet node
     2. The hardware for mainnet meets the recommended baseline    
