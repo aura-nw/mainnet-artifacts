@@ -12,25 +12,26 @@ As the Aura foundation delegation receiver, KonsorTech pledges to meet the follo
     8. Commit to network contributions listed below: 
     Category 1: Infrastructure
     - Custom Explorer: https://explorer.konsortech.xyz/aura
-    - Custom Guide: https://github.com/konsortech/Node/tree/main/Mainnet/Aura
+    - Custom Guide: https://docs.konsortech.xyz/node/Mainnet/Aura
     - Peers: ced3a13f4f7200ce1a2392a5738c88532f794359@mainnet-aura.konsortech.xyz:25656
     - RPC: https://mainnet-aura-rpc.konsortech.xyz
     - API: https://mainnet-aura-api.konsortech.xyz
     - gRPC: http://mainnet-aura.konsortech.xyz:25090
-    - Snapshot: https://github.com/konsortech/Node/blob/main/Mainnet/Aura/snapshot.md
-    - Statesync: https://github.com/konsortech/Node/blob/main/Mainnet/Aura/statesync.md
+    - Snapshot: https://docs.konsortech.xyz/node/Mainnet/Aura/snapshot
+    - Statesync: https://docs.konsortech.xyz/node/Mainnet/Aura/statesync
+    - Aura Mainnet Decentralization Maps (Beta release): https://maps.konsortech.xyz/mainnet/aura
     - IBC Relayers: 
       1. Aura xstaxy-1 channel-4 <> Axelar axelar-dojo-1 channel-104
          Operator address:
          aura15tfdu996z0v0z8mfmnpdmdzv52nhc4ra5avwmw
          axelar15tfdu996z0v0z8mfmnpdmdzv52nhc4rat9dyjk
     
-    - Running Testnet EUPHORIA-2 : https://testnet-explorer.konsortech.xyz/aura-testnet/staking/auravaloper1u75n70557npu6uezv26v890yf2xtdpvnemdw24
-    - Custom Guide: https://github.com/konsortech/Node/tree/main/Testnet/Aura
+    - Rotate Euphoria validator set : https://testnet-explorer.konsortech.xyz/aura-testnet/staking/auravaloper1qu86mw0ek54x3749v39t0jxxtgj9z32rkzxmex
+    - Custom Guide: https://docs.konsortech.xyz/node/Testnet/Aura
     - RPC: https://testnet-aura-rpc.konsortech.xyz
     - API: https://testnet-aura-api.konsortech.xyz
     - gRPC: http://testnet-aura.konsortech.xyz:20090
-    - Statesync: https://github.com/konsortech/Node/blob/main/Testnet/Aura/statesync.md
+    - Statesync: https://docs.konsortech.xyz/node/Testnet/Aura/statesync
     Category 2: Software engineering
     Category 3: Community growth
     - https://twitter.com/Konsor_Tech/status/1638577540217573376
