@@ -18,7 +18,11 @@ As the Aura foundation delegation receiver, **lesnik | UTSA** pledges to meet th
       - RPC - https://m-aura.rpc.utsa.tech/
       - API - https://m-aura.api.utsa.tech/
       - ADDRBOOK - https://share.utsa.tech/aura/addrbook.json
+      - Relay - xstaxy-1 <> nois-1 (transfer)
+      - Relay - xstaxy-1 <> nois-1 (WASM)
     8.2. Aura Network Testnet
       - Services (state sync, guide, updates) - https://utsa.gitbook.io/services/testnet/aura
+      - Relay - euphoria-2 <> nois-testnet-005 (transfer)
+      - Relay - euphoria-2 <> nois-testnet-005 (WASM)
     Category 3: Community growth
       - Thread on forum and contest - soon
