@@ -6,12 +6,11 @@
 6. Must set Gas Price >= 0.001 uaura
 7. Publicly announced to the social channels on the delegation decision
 8. Commit to any network contribution listed below:
-- Guide install node Aura mainnet: https://github.com/NodeValidatorVietNam/Aura-Network-Mainnet
-- Tutorial run a node Aura mainnet: https://youtu.be/en-_ffMlx7c
-- Tutorial stake a validator Aura mainnet: https://youtu.be/qd0uPOZ7w5Y
-Give away for member/community:
-- https://www.facebook.com/groups/auranetworknftcommunity/permalink/275899131608672/
-- https://www.facebook.com/groups/auranetworknftcommunity/permalink/257582573440328/
-- https://www.facebook.com/groups/auranetworknftcommunity/permalink/260507239814528/
-- https://twitter.com/NodeValidatorVN/status/1666377311883771904?s=20
- 
+- Public Endpoints:
+- RPC: https://aura-rpc.validatorvn.com
+- API: https://aura-api.validatorvn.com
+- gRPC: aura-grpc.validatorvn.com:9090
+- Enable statesync
+
+Community growth
+- Airdrop for user 2 NFT.
