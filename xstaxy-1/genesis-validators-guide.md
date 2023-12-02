@@ -7,7 +7,7 @@ Below are the instructions to generate your genesis transaction.
 1. Download the lastest **Aura** release from [aurad repo](https://github.com/aura-nw/aura) and run `make` to build the source.
    Or clone source code from the repo
    ```bash
-   git clone --branch Aura_v0.4.3 https://github.com/aura-nw/aura
+   git clone --branch aura_v0.4.3 https://github.com/aura-nw/aura
    cd aura
    make
    ```
@@ -101,6 +101,42 @@ Below are the instructions to generate your genesis transaction.
 
 ## Setup your validator with finalized genesis
 
-The Chain Genesis Time is 13:00 UTC on March 20, 2023.
+The Chain Genesis Time is **13:00 UTC on March 20, 2023**.
 
-The instructions will be given later.
+1. Download the lastest **Aura** release from [aurad repo](https://github.com/aura-nw/aura) and run `make` to build the source.
+
+   Or clone source code from the repo
+   ```bash
+   git clone --branch aura_v0.4.4 https://github.com/aura-nw/aura
+   cd aura && make
+   ```
+**NOTE**: this version is different with version used to generate gentx
+
+2. Download finalized genesis file:
+
+```bash
+export HOME_PATH=<Aura directory>
+curl -s https://raw.githubusercontent.com/aura-nw/mainnet-artifacts/main/xstaxy-1/genesis.json > $HOME_PATH/config/genesis.json
+```
+
+- Check sorted shasum
+```bash
+jq -S -c -M '' $HOME_PATH/config/genesis.json | sha256sum
+# this should return
+# 90b9404d38167e3b40f56ddc11a1565f0107b89008742425e44905871699febc  -
+```
+
+3. Setup node
+
+- Follow the docs to setup node: [link](https://docs.aura.network/validator/running-a-fullnode/)
+ 
+   [Xstaxy network information](../Network-info.md)
+- Set up minimum gas price
+```bash
+sed -i -e "s|^minimum-gas-prices *=.*|minimum-gas-prices = \"0.001uaura\"|" $HOME_PATH/config/app.toml
+``` 
+**NOTE**: 
+   - Validator should set gas price at least **0.001uaura**.
+   - Each genesis validator is given **1aura** for initial fees. 
+
+4. Start the node service and wait until the genesis time :rocket:
