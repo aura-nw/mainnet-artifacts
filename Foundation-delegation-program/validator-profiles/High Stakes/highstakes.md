@@ -23,7 +23,7 @@ Category 1: Infrastructure
 
         --> a map of nodes: https://tools.highstakes.ch/geoloc/xstaxy
 
-        --> public API & RPC : https://umee-rpc.highstakes.ch:26657, https://umee-api.highstakes.ch:1317
+        --> public API & RPC : https://aura-rpc.highstakes.ch:26657, https://aura-api.highstakes.ch:1317
 
 Category 2: Software engineering
 Category 3: Community growth
