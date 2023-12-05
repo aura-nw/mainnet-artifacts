@@ -11,8 +11,8 @@ As the Aura foundation delegation **Round 3** receiver, **ContributionDAO** pled
     7. Publicly announced to the social channels on the delegation decision
     8. Commit to network contributions listed below: 
     Category 1: Infrastructure
-	    - Mainnet Validator https://aurascan.io/validators/auravaloper1g4sdn3py2ldhwegll3vtvz0xakt65nc0ryxcc4
-	    - Testnet Validator https://euphoria.aurascan.io/validators/auravaloper1sm08e2x7f4du8p326lu7k3050wuwkjffqrzjmn
+	- Mainnet Validator https://aurascan.io/validators/auravaloper1g4sdn3py2ldhwegll3vtvz0xakt65nc0ryxcc4
+	- Testnet Validator https://euphoria.aurascan.io/validators/auravaloper1sm08e2x7f4du8p326lu7k3050wuwkjffqrzjmn
     Category 3: Community  growth
-		- Cosmos Bangkok Thailand Nov 2023 https://www.facebook.com/photo/?fbid=702617388528234&set=a.471253608331281
+	- Cosmos Bangkok Thailand Nov 2023 https://www.facebook.com/photo/?fbid=702617388528234&set=a.471253608331281
 ![Aura network on Cosmos Bangkok](https://imagedelivery.net/R3E4xa2RUTElUFZLaIyRPQ/ef737057-e310-4b6b-a328-ba24d80c6000/public)
