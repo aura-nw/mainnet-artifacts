@@ -1,6 +1,6 @@
 As the Aura foundation delegation receiver, **OriginStake** pledges to meet the following works. If, for any reason, we do not meet these commitments then we understand that we may lose delegation staked to us.
 
-1. Top 25 validators must run an Euphoria testnet node beside Xstaxy mainnet node
+1. Top 15 validators must run an Euphoria testnet node beside Xstaxy mainnet node
 2. The hardware for mainnet meets the recommended baseline    
 3. Uptime of at least 90%
 4. Commission rate is greater than 3% and smaller or equal to 5%
@@ -14,15 +14,14 @@ As the Aura foundation delegation receiver, **OriginStake** pledges to meet the 
 - We run Euphoria testnet node at: https://euphoria.aurascan.io/validators/auravaloper1tdqcxc9n7z54j53zklswh5mc4eah2dh2390fuk
 
 **Category 3: Community growth**
-- We provide weekly and monthly updates on important news for the community 
-  - Weekly Update:  ​https://twitter.com/OriginStake/status/1658326539849842688,
-  - Monthly Update: https://twitter.com/OriginStake/status/1666116951419285504, https://twitter.com/OriginStake/status/1653724787360034817 
-  - Metrics Update: https://twitter.com/OriginStake/status/1657297902723817472, https://twitter.com/OriginStake/status/1647149688410501120 
-  - New Version Update: https://twitter.com/OriginStake/status/1668510948267786240
-- We kick-off campaigns to increase brand awareness for the Aura Network and to attract users to join the Aura ecosystem by creating wallets. Additionally, we also organize campaigns to attract users to stake $AURA.
-  - https://twitter.com/OriginStake/status/1656968672731344897 
-  - https://twitter.com/OriginStake/status/1661719671345930240 
-- We launch a Support Hub in both Vietnamese and English to assist users in easily staking and creating wallets to participate in the Aura ecosystem. In addition, we are planning to expand to other common languages such as Russian, Chinese, Korean, French, etc
-  - [https://twitter.com/OriginStake/status/1661719671345930240](https://help.originstake.com/en/collections/3964280-aura-network) 
-- We support CM to answer user inquiries in the Vietnamese community.
-- We are developing a Dashboard to manage staking assets, tracking, reward calculation and Aura Network is one of the earliest integrations into this application. The product will be launched in 2023
+Category 2: Community growth
+  - Weekly Update: https://twitter.com/OriginStake/status/1681311299672887308, https://twitter.com/OriginStake/status/1683835880900030470, https://twitter.com/OriginStake/status/1688921661675098114, https://twitter.com/OriginStake/status/1711728830216540640, etc
+  - Monthly Update: https://twitter.com/OriginStake/status/1676246812334911488, https://twitter.com/OriginStake/status/1686696194469441536, https://twitter.com/OriginStake/status/1699386365623054837, https://twitter.com/OriginStake/status/1709532006068142255, etc
+  - Metrics Update: https://twitter.com/OriginStake/status/1689640558166491136, https://twitter.com/OriginStake/status/1702971132759212083, https://twitter.com/OriginStake/status/1702971132759212083, https://twitter.com/OriginStake/status/1707331180226637832, etc
+  - New Version Update: https://twitter.com/OriginStake/status/1714541615531134987, https://twitter.com/OriginStake/status/1725144948440510856, 
+  - Social Post: https://twitter.com/OriginStake/status/1696147623525355804, https://twitter.com/OriginStake/status/1727971824808624190
+  - We kick-off campaigns to increase brand awareness for the Aura Network and to attract users to join the Aura ecosystem by creating wallets. Additionally, we also organize campaigns to attract users to stake $AURA.
+      - https://twitter.com/OriginStake/status/1702638430377988449
+  - We launch a Support Hub in both Vietnamese and English to assist users in easily staking and creating wallets to participate in the Aura ecosystem. In addition, we are planning to expand to other common languages such as Russian, Chinese, Korean, French, etc
+      - https://academy.originstake.com/docs-category/aura-network-en/
+  - We support CM to answer user inquiries in the Vietnamese community.
