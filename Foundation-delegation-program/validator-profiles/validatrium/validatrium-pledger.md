@@ -12,7 +12,7 @@ Category 1: Infrastructure
 - https://aura-grpc.validatrium.club
 - https://aura-api.validatrium.club
 - Testnet validator: https://euphoria.aurascan.io/validators/auravaloper1p55dyaekk77m5l08kjj5fyyhjdln74ly6sx7fs
-- IBC: Aura-Axelar
+- IBC: Aura-Axelar, Aura-Kava
 https://www.mintscan.io/axelar/txs/3343CF6AE7E468D595CAB962C46EB1BFD60E4DE5E26AE610F1319105F301DDA9?height=7421749
 
 Category 2: Software engineering
@@ -23,6 +23,7 @@ Spread a word about AURA on our social:
 - https://twitter.com/validatrium/status/1646967837687271429?s=46&t=WsR9Dpm_XDQ-jomhkqphxQ
 - https://twitter.com/validatrium/status/1658150156015943682?s=46&t=WsR9Dpm_XDQ-jomhkqphx
 - https://twitter.com/validatrium/status/1658472441885376512?s=46&t=WsR9Dpm_XDQ-jomhkqphxQ
+- https://twitter.com/validatrium/status/1731982149878681721
 
 
 

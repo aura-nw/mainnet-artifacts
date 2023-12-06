@@ -16,3 +16,4 @@ Category 1: Infrastructure
 - Seeds nodes: https://snapshots.stakecraft.com/xstaxy-1/seed.txt
 - Peers: https://snapshots.stakecraft.com/xstaxy-1/peer.txt
 - IBC channels to Osmosis and Juno
+- aggregator service
