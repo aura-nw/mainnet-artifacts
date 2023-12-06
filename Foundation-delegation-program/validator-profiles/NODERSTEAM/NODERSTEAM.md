@@ -6,6 +6,7 @@
 6. Must set Gas Price >= 0.001 uaura
 7. Publicly announced to the social channels on the delegation decision
 8. Commit to any network contribution listed below:
+
 Category 1: Infrastructure
 
 Testnet validator https://explorer.stavr.tech/aura-testnet/staking/auravaloper1vvqz6j3ucxr6n0ejdz4ck602lnyjew93cgcw4m
@@ -13,7 +14,13 @@ Mainnet validator https://explorer.nodestake.top/aura/staking/auravaloper1vvqz6j
 
 Our service:
 https://nodeservice.nodersteam.com/title/testnets/aura-network
-https://nodeservice.nodersteam.com/title/mainnet/aura-network (Will be 30.03.23)
+https://nodeservice.nodersteam.com/title/mainnet/aura-network
+
+CosmosList
+Mainnet
+https://cosmoslist.co/projects/28
+Testnet
+https://cosmoslist.co/projects/2
 
 - Guide
 - StateSync
@@ -54,3 +61,4 @@ Category 4: Business development
 - Website
 - Advising
 - AMA on Enlish with the translation
+- Partnership Monsterra Game
