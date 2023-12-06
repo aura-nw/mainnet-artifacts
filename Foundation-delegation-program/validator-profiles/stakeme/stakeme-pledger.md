@@ -13,8 +13,16 @@ Validators receved the foundation delegation have pledged to meet the following 
     Category 1: Infrastructure
     - Support testnet: https://aura-testnet.exploreme.pro/validator/auravaloper1p46fqn68az9lcwvfh0as5n04ua8t7mh4rc3em6
     Category 2: Software engineering
-    - Self-written explorer
+    - Self-written explorer (improved performance)
     - Mainnet: https://aura.exploreme.pro
+    - An offer was sent to the team to integrate testnet Aura Network into faucetme.pro
     Category 3: Community growth
     - We help the community that ask questions related to Aura. We are ready to integrate Aura Network into our future products and tell the community.
       https://twitter.com/stakeme_pro/status/1640586887059611649?s=20
+    Category 4: Business development
+    - Telegram channel
+    - Youtube channel
+    - Medium
+    - Discord
+    - Developments
+    - Website
