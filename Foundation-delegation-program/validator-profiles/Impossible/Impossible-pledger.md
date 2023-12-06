@@ -12,7 +12,7 @@ As the Aura foundation delegation receiver, **Impossible** pledges to meet the f
     8. Commit to any network contribution listed below:
     
 Category 3: Community growth
-    - Promote on Twitter and IF blog
+- Promote on Twitter and IF blog
 
 Category 4: Business development
-    - Launch Aura network on our launchpad
+- Launch Aura network on our launchpad
