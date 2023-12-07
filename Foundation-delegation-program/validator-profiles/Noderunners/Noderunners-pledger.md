@@ -9,7 +9,7 @@
 Category 1: Infrastructure
 Mainnet validator: https://aurascan.io/validators/auravaloper15x4v36r6rl73nhn9h0954mwp42sawrc20m7ttc
 Peer: ed68064620cebd196f56335bf801144efa9fb5ef@185.22.232.82:26656
-RPC: http://185.22.232.82:26657
+RPC: http://http://217.144.98.50:26657
 Category 2: Software engineering
 https://github.com/rewseRE/cosmos-validator-monitoring
 https://github.com/rewseRE/cosmos-redelegate
