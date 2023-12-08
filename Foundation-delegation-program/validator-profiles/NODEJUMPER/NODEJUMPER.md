@@ -11,7 +11,7 @@ As the Aura foundation delegation receiver, **NODEJUMPER** pledges to meet the f
     7. Publicly announced to the social channels on the delegation decision
     8. Commit to network contributions listed below: 
     Category 1: Infrastructure
-      Nodejumper team provides (https://nodejumper.io/aura)
+      Nodejumper team provides (https://app.nodejumper.io/aura)
       - Physical node decentralization map
       - Cheat sheet for most popular blockchain commands (validator profile, wallet, token management and etc.)
       - Scripts for secure server setup
@@ -20,7 +20,7 @@ As the Aura foundation delegation receiver, **NODEJUMPER** pledges to meet the f
       - Live peers and address book
       - Public API endpoints (RPC, REST, gRPC)
       - On-chain analytics
-      - Relayer to Nois network (https://relayers.smartstake.io/relayer/FFB0AA51A2DF5954)
+      - Relayer to Nois network, Cosmos Hub (https://relayers.smartstake.io/relayer/FFB0AA51A2DF5954)
     Category 2: Software engineering
       - Telegram Governance Bot (https://t.me/nodejumper_governance_bot)
       - Aura blockchain explorer (https://explorer.nodejumper.io/aura)
