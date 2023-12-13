@@ -10,7 +10,7 @@ As the Aura foundation delegation **Round 3** receiver, Moonlet pledges to meet 
     6. Must set Gas Price >= 0.001 uaura
     7. Publicly announced to the social channels on the delegation decision
     8.1. Aura Network Mainnet
-  Aura : https://aurascan.io/validators/auravaloper1y9knk32umrj007xrmh3029slhzvy0yv2t35l4n
-  - PEERS - 9c8c5eb0c2015051572dddb3eb5ed1b4a100419c@51.195.61.86
-Category 2: Software engineering - Assist on technical issues for validator operation.
+    Aura : https://aurascan.io/validators/auravaloper1y9knk32umrj007xrmh3029slhzvy0yv2t35l4n
+    - PEERS - 9c8c5eb0c2015051572dddb3eb5ed1b4a100419c@51.195.61.86
+    Category 2: Software engineering - Assist on technical issues for validator operation.
 
