@@ -6,17 +6,17 @@ As the Aura foundation delegation receiver, **AutoStake** pledges to meet the fo
     1. Top 25 validators must run an Euphoria testnet node beside Xstaxy mainnet node
     2. The hardware for mainnet meets the recommended baseline    
     3. Uptime of at least 90%
-    4. Commission rate is greater than 0% and smaller or equal to 8%
+    4. Commission rate is greater than 3% and smaller or equal to 5%
     5. Commit to participate in network governance at least 2/3 of the total proposals throughout the delegation period
     6. Must set Gas Price >= 0.001 uaura
     7. Publicly announced to the social channels on the delegation decision
     8. Commit to any network contribution listed below:
     Category 1: Infrastructure
-    - Daily pruned mainnet snaphots: https://snapshots.autostake.com/xstaxy-1/
-    - Daily updated addrbook: https://snapshots.autostake.com/xstaxy-1/addrbook.json
-    - State-sync server: aura-mainnet-rpc.autostake.com:443
-    - Seeds nodes: https://snapshots.autostake.com/xstaxy-1/seed.txt
-    - Peers for all the chains we validate: https://snapshots.autostake.com/xstaxy-1/peer.txt
+    - Daily pruned mainnet snaphots: https://autostake.com/networks/aura/#services
+    - Daily updated addrbook: https://autostake.com/networks/aura/#services
+    - State-sync server: https://autostake.com/networks/aura/#services
+    - Seeds nodes: https://autostake.com/networks/aura/#services
+    - Peers for all the chains we validate: https://autostake.com/networks/aura/#services
     - Auto-Compounding staking: https://wallet.autostake.com
     - Explorer: https://explorer.autostake.com/aura
     - LCD/REST API for all chains we validate: https://aura-mainnet-lcd.autostake.com:443
