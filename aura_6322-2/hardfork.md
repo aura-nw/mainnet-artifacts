@@ -13,22 +13,32 @@ Relayers **MUST RUN** this command before the upgrade block **6,597,194**
 ```
 hermes upgrade client --host-chain <<chain-id>> --client <<client-id>> --upgrade-height 6597194
 ```
+List of IBC counterparties:
+| chain-id  | client  |
+|-----------|---------|
+|axelar-dojo-1     |07-tendermint-152  |
+|cosmoshub-4  |07-tendermint-1158 |
+|nois-1      |07-tendermint-4    |
+|kava_2222-10       |07-tendermint-133  |
+|noble-1      |07-tendermint-66   |
+|osmosis-1  | 07-tendermint-3054|
+|stargaze-1 | 07-tendermint-339 |
 
 Example: Update Nois client 
 ```
-hermes upgrade client --host-chain nois-testnet-005 --client 07-tendermint-46 --upgrade-height 6597194
+hermes upgrade client --host-chain nois-1 --client 07-tendermint-4 --upgrade-height 6597194
 ```
 This command will check consecutively until Aura chain reachs the upgrade block and halts, then submit an upgrade ibc client transaction to Nois chain.
+
 
 ## Validators and Full nodes
 
 ### Before Upgrade
-- Check state sync config is disabled in ```config.toml```
+- Disable state sync config in ```config.toml```
 ```
-[statesync]
-enable = false
+sed -i -E "s|^(enable[[:space:]]+=[[:space:]]+).*$|\1false|" $HOME/.aura/config/config.toml
 ```
-- Check your timeout setting for a systemd service (skip if you not set it). This upgrade will take about 10~15 minutes to start up.
+- Check your timeout setting for the systemd service (skip if you not set it). This upgrade will take about 10~15 minutes to start up.
 
 ### After Aura chain halts, follow below instructions: 
 
@@ -41,20 +51,30 @@ systemctl stop <<aurad service>>
 git clone --branch v0.8.1 https://github.com/aura-nw/aura
 cd aura
 make build
+
 # Verify the version
-./build/aurad version
-# returns v0.8.1
+./build/aurad version --long
+# commit: 447c7da7a2c784b3b6c7a2c859780d175f7e39e7
+# cosmos_sdk_version: v0.47.8
+# version: v0.8.1
 ```
 3. Remove aurad old version and replace the new one
-4. **BACK UP ALL PRIVATE KEYS**
-5. Remove previous state
+```
+mv ./build/aurad $(which aurad)
+```
+4. **BACK UP YOUR PRIVATE KEYS**
+```
+$HOME/.aura/config/priv_validator_key.json
+```
+
+5. Remove previous data
 ```
 aurad tendermint unsafe-reset-all --home=$HOME/.aura --keep-addr-book
 rm -r $HOME/.aura/wasm
 ```
 6. Download new genesis file
 ```
-wget TBD
+wget <<LINK WILL BE UPLOADED WHEN CHAIN HALTS>>
 tar -xzvf aura_6322-2-genesis.tar.gz
 mv aura_6322-2-genesis.json $HOME/.aura/config/genesis.json
 
@@ -75,7 +95,11 @@ systemctl start <<aurad service>>
 
 ### Cosmovisor users
 
-If you are using Cosmovisor to run your node, you can let Cosmovisor replace **aurad** bin file automatically
+If you are using Cosmovisor to run your node, you can let Cosmovisor replace **aurad** bin file automatically.
+
+Setup **BEFORE** chain halts:
+1. Build **aurad v0.8.1** 
+2. Prepare upgrade for Cosmovisor
 ```
 mkdir -p $HOME/.aura/cosmovisor/upgrades/evmhardfork/bin
 cp ./build/aurad $HOME/.aura/cosmovisor/upgrades/evmhardfork/bin
