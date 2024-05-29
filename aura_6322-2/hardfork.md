@@ -14,15 +14,15 @@ Relayers **MUST RUN** this command before the upgrade block **6,597,194**
 hermes upgrade client --host-chain <<chain-id>> --client <<client-id>> --upgrade-height 6597194
 ```
 List of IBC counterparties:
-| chain-id  | client  |
-|-----------|---------|
-|axelar-dojo-1     |07-tendermint-152  |
-|cosmoshub-4  |07-tendermint-1158 |
-|nois-1      |07-tendermint-4    |
-|kava_2222-10       |07-tendermint-133  |
-|noble-1      |07-tendermint-66   |
-|osmosis-1  | 07-tendermint-3054|
-|stargaze-1 | 07-tendermint-339 |
+| chain-id  | client  | Relayer will execute|
+|-----------|---------|---------|
+|axelar-dojo-1     |07-tendermint-152  | Crosnest
+|cosmoshub-4  |07-tendermint-1158 | Crosnest
+|nois-1      |07-tendermint-4    |  |
+|kava_2222-10       |07-tendermint-133  | |
+|noble-1      |07-tendermint-66   | |
+|osmosis-1  | 07-tendermint-3054| StakeTown
+|stargaze-1 | 07-tendermint-339 | |
 
 Example: Update Nois client 
 ```
