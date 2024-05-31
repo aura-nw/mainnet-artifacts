@@ -74,7 +74,7 @@ rm -r $HOME/.aura/wasm
 ```
 6. Download new genesis file
 ```
-wget <<LINK WILL BE UPLOADED WHEN CHAIN HALTS>>
+wget https://images.aura.network/aura_6322-2-genesis.tar.gz
 tar -xzvf aura_6322-2-genesis.tar.gz
 mv aura_6322-2-genesis.json $HOME/.aura/config/genesis.json
 
@@ -86,7 +86,7 @@ cat $HOME/.aura/config/genesis.json | jq '"Genesis Time: " + .genesis_time + " â
 # Verify sorted shasum
 jq -S -c -M '' $HOME/.aura/config/genesis.json | sha256sum
 # this should return
-# TBD  -
+# 3ac311ffbbd18edf2b66f35bd8c4be2e9b96913607ccef4d9e7e4b0b574fa24e  -
 ```
 7. Start aurad service
 ```
