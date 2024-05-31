@@ -48,7 +48,7 @@ systemctl stop <<aurad service>>
 ```
 2. Build new aurad version
 ```
-git clone --branch v0.8.1 https://github.com/aura-nw/aura
+git clone --branch v0.8.2 https://github.com/aura-nw/aura
 cd aura
 make build
 
@@ -56,7 +56,7 @@ make build
 ./build/aurad version --long
 # commit: 447c7da7a2c784b3b6c7a2c859780d175f7e39e7
 # cosmos_sdk_version: v0.47.8
-# version: v0.8.1
+# version: v0.8.2
 ```
 3. Remove aurad old version and replace the new one
 ```
@@ -98,7 +98,7 @@ systemctl start <<aurad service>>
 If you are using Cosmovisor to run your node, you can let Cosmovisor replace **aurad** bin file automatically.
 
 Setup **BEFORE** chain halts:
-1. Build **aurad v0.8.1** 
+1. Build **aurad v0.8.2** 
 2. Prepare upgrade for Cosmovisor
 ```
 mkdir -p $HOME/.aura/cosmovisor/upgrades/evmhardfork/bin
