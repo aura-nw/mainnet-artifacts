@@ -54,7 +54,7 @@ make build
 
 # Verify the version
 ./build/aurad version --long
-# commit: 447c7da7a2c784b3b6c7a2c859780d175f7e39e7
+# commit: f904836400b0fb2bedccf6283f5c0b720d8aa932
 # cosmos_sdk_version: v0.47.8
 # version: v0.8.2
 ```
