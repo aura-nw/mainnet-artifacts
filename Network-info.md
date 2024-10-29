@@ -14,8 +14,8 @@
   - JSON-RPC: `https://jsonrpc.aura.network`
 - **Seeds**:
 ```
-22a0ca5f64187bb477be1d82166b1e9e184afe50@18.143.52.13:26656
-0b8bd8c1b956b441f036e71df3a4d96e85f843b8@13.250.159.219:26656
+22a0ca5f64187bb477be1d82166b1e9e184afe50@34.1.132.196:26656
+0b8bd8c1b956b441f036e71df3a4d96e85f843b8@34.1.137.19:26656
 ```
 - **RPC servers for State Sync configuration**:
 ```
